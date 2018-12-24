@@ -1,0 +1,295 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Mercer",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.048833,
+            40.71966
+          ],
+          [
+            -74.047626,
+            40.71927
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Mercer",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.047329,
+            40.71917
+          ],
+          [
+            -74.045987,
+            40.718768
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Mercer",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.045767,
+            40.718681
+          ],
+          [
+            -74.043919,
+            40.718119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Mercer",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.04367,
+            40.718066
+          ],
+          [
+            -74.042388,
+            40.71792
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Mercer",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.042335,
+            40.718058
+          ],
+          [
+            -74.043547,
+            40.718192
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Mercer",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.04385,
+            40.718296
+          ],
+          [
+            -74.045679,
+            40.718836
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Mercer",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.045897,
+            40.718922
+          ],
+          [
+            -74.047243,
+            40.719308
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Mercer",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.047504,
+            40.719423
+          ],
+          [
+            -74.048722,
+            40.719809
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Mercer",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.048957,
+            40.719884
+          ],
+          [
+            -74.050288,
+            40.720286
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Mercer",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.049092,
+            40.719737
+          ],
+          [
+            -74.050347,
+            40.72014
+          ]
+        ]
+      }
+    }
+  ]
+}

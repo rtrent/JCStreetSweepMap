@@ -1,0 +1,179 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "10th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.048106,
+            40.729335
+          ],
+          [
+            -74.046642,
+            40.729209
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "10th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.046504,
+            40.729198
+          ],
+          [
+            -74.04497,
+            40.729064
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "10th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.044774,
+            40.72904
+          ],
+          [
+            -74.043315,
+            40.728906
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "10th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0431,
+            40.728877
+          ],
+          [
+            -74.041662,
+            40.728759
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "10th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.041454,
+            40.728737
+          ],
+          [
+            -74.040026,
+            40.728624
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "10th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.041432,
+            40.728872
+          ],
+          [
+            -74.040988,
+            40.728836
+          ]
+        ]
+      }
+    }
+  ]
+}

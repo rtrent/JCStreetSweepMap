@@ -1,0 +1,237 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "5th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.051397,
+            40.725248
+          ],
+          [
+            -74.050694,
+            40.725171
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "5th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.050433,
+            40.725146
+          ],
+          [
+            -74.04901,
+            40.725017
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "5th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.04876,
+            40.725003
+          ],
+          [
+            -74.047357,
+            40.72487
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "5th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.047148,
+            40.724846
+          ],
+          [
+            -74.045696,
+            40.724721
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "5th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.045669,
+            40.724876
+          ],
+          [
+            -74.047108,
+            40.725009
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "5th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.047317,
+            40.725044
+          ],
+          [
+            -74.048727,
+            40.72516
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "5th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.048985,
+            40.725176
+          ],
+          [
+            -74.05041,
+            40.725296
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "5th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.05063,
+            40.725332
+          ],
+          [
+            -74.051601,
+            40.725401
+          ]
+        ]
+      }
+    }
+  ]
+}

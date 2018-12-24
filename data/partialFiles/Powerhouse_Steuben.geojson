@@ -1,0 +1,91 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Steuben",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Powerhouse",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.040548,
+            40.719554
+          ],
+          [
+            -74.038874,
+            40.719058
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Steuben",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Powerhouse",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.040477,
+            40.71967
+          ],
+          [
+            -74.038846,
+            40.719178
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Steuben",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 6,
+        "end_time": 7,
+        "sign_days": [
+          "F"
+        ],
+        "neighborhood_name": "Powerhouse",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.038507,
+            40.718955
+          ],
+          [
+            -74.037166,
+            40.718806
+          ]
+        ]
+      }
+    }
+  ]
+}

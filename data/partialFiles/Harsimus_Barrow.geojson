@@ -1,0 +1,34 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Barrow",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 10,
+        "end_time": 12,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Harsimus Cove",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.045169,
+            40.720303
+          ],
+          [
+            -74.044874,
+            40.720835
+          ]
+        ]
+      }
+    }
+  ]
+}

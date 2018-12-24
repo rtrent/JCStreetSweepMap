@@ -1,0 +1,295 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Brunswick",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.050517,
+            40.725875
+          ],
+          [
+            -74.050587,
+            40.725335
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Brunswick",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.050635,
+            40.725152
+          ],
+          [
+            -74.0507,
+            40.724595
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Brunswick",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.050783,
+            40.724331
+          ],
+          [
+            -74.050837,
+            40.723908
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Brunswick",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.050864,
+            40.723733
+          ],
+          [
+            -74.05095,
+            40.723172
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Brunswick",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.050983,
+            40.72303
+          ],
+          [
+            -74.051047,
+            40.722509
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Brunswick",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.050834,
+            40.722482
+          ],
+          [
+            -74.05077,
+            40.722986
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Brunswick",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.050715,
+            40.723181
+          ],
+          [
+            -74.05065,
+            40.723689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Brunswick",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.050607,
+            40.723893
+          ],
+          [
+            -74.050591,
+            40.724141
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Brunswick",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.050475,
+            40.724594
+          ],
+          [
+            -74.050438,
+            40.725114
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Brunswick",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.050428,
+            40.725307
+          ],
+          [
+            -74.050364,
+            40.725856
+          ]
+        ]
+      }
+    }
+  ]
+}

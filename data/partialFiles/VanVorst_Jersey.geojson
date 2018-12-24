@@ -1,0 +1,353 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Jersey",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0468,
+            40.720638
+          ],
+          [
+            -74.047117,
+            40.720061
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Jersey",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.04717,
+            40.719947
+          ],
+          [
+            -74.047481,
+            40.719362
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Jersey",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.047544,
+            40.719271
+          ],
+          [
+            -74.047844,
+            40.718714
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Jersey",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.04793,
+            40.718568
+          ],
+          [
+            -74.048199,
+            40.718084
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Jersey",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.048276,
+            40.717977
+          ],
+          [
+            -74.048593,
+            40.717408
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Jersey",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.048638,
+            40.717286
+          ],
+          [
+            -74.048954,
+            40.716652
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Jersey",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.048761,
+            40.716615
+          ],
+          [
+            -74.048461,
+            40.717225
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Jersey",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.048402,
+            40.717347
+          ],
+          [
+            -74.048102,
+            40.717925
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Jersey",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.048008,
+            40.718028
+          ],
+          [
+            -74.047761,
+            40.718508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Jersey",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.047678,
+            40.71866
+          ],
+          [
+            -74.047383,
+            40.719204
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Jersey",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.04733,
+            40.719322
+          ],
+          [
+            -74.046997,
+            40.719911
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Jersey",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.046933,
+            40.720014
+          ],
+          [
+            -74.046654,
+            40.720559
+          ]
+        ]
+      }
+    }
+  ]
+}

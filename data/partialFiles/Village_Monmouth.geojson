@@ -1,0 +1,237 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Monmouth",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 10,
+        "end_time": 12,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.049391,
+            40.722339
+          ],
+          [
+            -74.049316,
+            40.722864
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Monmouth",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 10,
+        "end_time": 12,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.049253,
+            40.72332
+          ],
+          [
+            -74.049227,
+            40.723576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Monmouth",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 10,
+        "end_time": 12,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.049181,
+            40.723788
+          ],
+          [
+            -74.049111,
+            40.724284
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Monmouth",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 10,
+        "end_time": 12,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.049082,
+            40.724459
+          ],
+          [
+            -74.049007,
+            40.725004
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Monmouth",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 10,
+        "end_time": 12,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.048969,
+            40.725192
+          ],
+          [
+            -74.048905,
+            40.725696
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Monmouth",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 10,
+        "end_time": 12,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.04876,
+            40.725139
+          ],
+          [
+            -74.048685,
+            40.7257
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Monmouth",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 10,
+        "end_time": 12,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.048867,
+            40.724456
+          ],
+          [
+            -74.048787,
+            40.724988
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Monmouth",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 10,
+        "end_time": 12,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.048973,
+            40.723766
+          ],
+          [
+            -74.048905,
+            40.724255
+          ]
+        ]
+      }
+    }
+  ]
+}

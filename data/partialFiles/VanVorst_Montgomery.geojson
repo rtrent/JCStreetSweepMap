@@ -1,0 +1,324 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Montgomery",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.052179,
+            40.720135
+          ],
+          [
+            -74.050879,
+            40.719717
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Montgomery",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.04924,
+            40.718968
+          ],
+          [
+            -74.048022,
+            40.718577
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Montgomery",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.04612,
+            40.718014
+          ],
+          [
+            -74.044317,
+            40.717449
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Montgomery",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.043984,
+            40.717373
+          ],
+          [
+            -74.04253,
+            40.717234
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Montgomery",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.042471,
+            40.717462
+          ],
+          [
+            -74.043941,
+            40.71758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Montgomery",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.04421,
+            40.717626
+          ],
+          [
+            -74.046044,
+            40.718175
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Montgomery",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.046299,
+            40.71828
+          ],
+          [
+            -74.047591,
+            40.718671
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Montgomery",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.047849,
+            40.718746
+          ],
+          [
+            -74.049141,
+            40.719128
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Montgomery",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.049397,
+            40.719248
+          ],
+          [
+            -74.050652,
+            40.719654
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Montgomery",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.049467,
+            40.719033
+          ],
+          [
+            -74.050743,
+            40.719436
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Montgomery",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.050962,
+            40.719499
+          ],
+          [
+            -74.052261,
+            40.71991
+          ]
+        ]
+      }
+    }
+  ]
+}

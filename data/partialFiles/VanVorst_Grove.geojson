@@ -1,0 +1,305 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Grove",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 11,
+        "sign_days": [
+          "Tu",
+          "Th",
+          "Sa"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.043512,
+            40.718782
+          ],
+          [
+            -74.043765,
+            40.718282
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Grove",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 11,
+        "sign_days": [
+          "Tu",
+          "Th",
+          "Sa"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.043909,
+            40.718087
+          ],
+          [
+            -74.044151,
+            40.71764
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Grove",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 11,
+        "sign_days": [
+          "Tu",
+          "Th",
+          "Sa"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.044284,
+            40.71744
+          ],
+          [
+            -74.04452,
+            40.716936
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Grove",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 11,
+        "sign_days": [
+          "Tu",
+          "Th",
+          "Sa"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.044654,
+            40.716757
+          ],
+          [
+            -74.04489,
+            40.716261
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Grove",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 11,
+        "sign_days": [
+          "M",
+          "W",
+          "F"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.044424,
+            40.716729
+          ],
+          [
+            -74.04467,
+            40.716221
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Grove",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 11,
+        "sign_days": [
+          "M",
+          "W",
+          "F"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.044048,
+            40.717396
+          ],
+          [
+            -74.044284,
+            40.716891
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Grove",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 11,
+        "sign_days": [
+          "M",
+          "W",
+          "F"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.043676,
+            40.718043
+          ],
+          [
+            -74.043949,
+            40.717588
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Grove",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 11,
+        "sign_days": [
+          "M",
+          "W",
+          "F"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.043313,
+            40.718707
+          ],
+          [
+            -74.043565,
+            40.718227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Grove",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 11,
+        "sign_days": [
+          "M",
+          "W",
+          "F"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.042932,
+            40.719337
+          ],
+          [
+            -74.043173,
+            40.718906
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Grove",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 11,
+        "sign_days": [
+          "Tu",
+          "Th",
+          "Sa"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.043152,
+            40.719434
+          ],
+          [
+            -74.043425,
+            40.718983
+          ]
+        ]
+      }
+    }
+  ]
+}

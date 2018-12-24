@@ -1,0 +1,61 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "1st",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M"
+        ],
+        "neighborhood_name": "Powerhouse",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.040869,
+            40.721535
+          ],
+          [
+            -74.039463,
+            40.721421
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "1st",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M"
+        ],
+        "neighborhood_name": "Powerhouse",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.039219,
+            40.721421
+          ],
+          [
+            -74.038312,
+            40.721327
+          ]
+        ]
+      }
+    }
+  ]
+}

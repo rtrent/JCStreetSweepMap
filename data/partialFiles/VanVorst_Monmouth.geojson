@@ -1,0 +1,208 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Monmouth",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 10,
+        "end_time": 12,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.052245,
+            40.717163
+          ],
+          [
+            -74.051311,
+            40.718879
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Monmouth",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 10,
+        "end_time": 12,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.051229,
+            40.719041
+          ],
+          [
+            -74.050977,
+            40.719513
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Monmouth",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 10,
+        "end_time": 12,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.050869,
+            40.7197
+          ],
+          [
+            -74.05059,
+            40.720205
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Monmouth",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 10,
+        "end_time": 12,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.050385,
+            40.720151
+          ],
+          [
+            -74.050643,
+            40.719639
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Monmouth",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 10,
+        "end_time": 12,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.050758,
+            40.719451
+          ],
+          [
+            -74.051031,
+            40.718983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Monmouth",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 10,
+        "end_time": 12,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.051092,
+            40.718833
+          ],
+          [
+            -74.051398,
+            40.718296
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Monmouth",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 10,
+        "end_time": 12,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Van Vorst Park",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.051478,
+            40.718135
+          ],
+          [
+            -74.052055,
+            40.717096
+          ]
+        ]
+      }
+    }
+  ]
+}

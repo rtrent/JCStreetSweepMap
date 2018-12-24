@@ -1,0 +1,179 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Montgomery",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Paulus Hook",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.042239,
+            40.717228
+          ],
+          [
+            -74.039232,
+            40.716915
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Montgomery",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Paulus Hook",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.038974,
+            40.716889
+          ],
+          [
+            -74.037557,
+            40.716733
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Montgomery",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Paulus Hook",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.037217,
+            40.716677
+          ],
+          [
+            -74.035856,
+            40.716533
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Montgomery",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Paulus Hook",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.035829,
+            40.716758
+          ],
+          [
+            -74.037175,
+            40.7169
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Montgomery",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Paulus Hook",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.037505,
+            40.716914
+          ],
+          [
+            -74.038921,
+            40.717085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Montgomery",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Paulus Hook",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.039198,
+            40.717118
+          ],
+          [
+            -74.042175,
+            40.717441
+          ]
+        ]
+      }
+    }
+  ]
+}

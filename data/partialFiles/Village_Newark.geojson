@@ -1,0 +1,361 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Newark",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 7,
+        "end_time": 9,
+        "sign_days": [
+          "M",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": "Additionally no parking Sat from 9AM to 10AM."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.051737,
+            40.725172
+          ],
+          [
+            -74.051179,
+            40.724705
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Newark",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 7,
+        "end_time": 9,
+        "sign_days": [
+          "M",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": "Additionally no parking Sat from 7:30AM to 9AM."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.051469,
+            40.725237
+          ],
+          [
+            -74.050836,
+            40.724636
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Newark",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 7,
+        "end_time": 9,
+        "sign_days": [
+          "M",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": "Additionally no parking Sat from 7:30AM to 9AM."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.050543,
+            40.724405
+          ],
+          [
+            -74.049921,
+            40.723848
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Newark",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 7,
+        "end_time": 9,
+        "sign_days": [
+          "M",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": "Additionally no parking Sat from 7:30AM to 9AM."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.049691,
+            40.723628
+          ],
+          [
+            -74.049498,
+            40.723429
+          ],
+          [
+            -74.04924,
+            40.723323
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Newark",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 7,
+        "end_time": 9,
+        "sign_days": [
+          "M",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": "Additionally no parking Sat from 7:30AM to 9AM."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.049043,
+            40.723226
+          ],
+          [
+            -74.048635,
+            40.723023
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Newark",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 7,
+        "end_time": 9,
+        "sign_days": [
+          "M",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": "Additionally no parking Sat from 7:30AM to 9AM."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.048183,
+            40.722757
+          ],
+          [
+            -74.047737,
+            40.722562
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Newark",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 7,
+        "end_time": 9,
+        "sign_days": [
+          "M",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": "Additionally no parking Sat from 7:30AM to 9AM."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.047484,
+            40.722423
+          ],
+          [
+            -74.046883,
+            40.722122
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Newark",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 7,
+        "end_time": 9,
+        "sign_days": [
+          "M",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": "Additionally no parking Sat from 9AM to 10AM."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.046579,
+            40.721739
+          ],
+          [
+            -74.046987,
+            40.721942
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Newark",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 7,
+        "end_time": 9,
+        "sign_days": [
+          "M",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": "Additionally no parking Sat from 9AM to 10AM."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.047415,
+            40.722176
+          ],
+          [
+            -74.047544,
+            40.722245
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Newark",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 7,
+        "end_time": 9,
+        "sign_days": [
+          "M",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": "Additionally no parking Sat from 9AM to 10AM."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.047786,
+            40.722345
+          ],
+          [
+            -74.048757,
+            40.722821
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Newark",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 7,
+        "end_time": 9,
+        "sign_days": [
+          "M",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": "Additionally no parking Sat from 9AM to 10AM."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.049281,
+            40.723096
+          ],
+          [
+            -74.049646,
+            40.723271
+          ],
+          [
+            -74.050102,
+            40.72367
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Newark",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 7,
+        "end_time": 9,
+        "sign_days": [
+          "M",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": "Additionally no parking Sat from 9AM to 10AM."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.050282,
+            40.72386
+          ],
+          [
+            -74.050566,
+            40.724128
+          ]
+        ]
+      }
+    }
+  ]
+}

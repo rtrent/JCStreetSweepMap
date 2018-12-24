@@ -1,0 +1,382 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Jersey",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Harsimus Cove",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.046733,
+            40.720784
+          ],
+          [
+            -74.04625,
+            40.721532
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Jersey",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Harsimus Cove",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.046105,
+            40.72171
+          ],
+          [
+            -74.046061,
+            40.721887
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Jersey",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Harsimus Cove",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.046059,
+            40.722063
+          ],
+          [
+            -74.045978,
+            40.722567
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Jersey",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Harsimus Cove",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.045935,
+            40.722779
+          ],
+          [
+            -74.045866,
+            40.723283
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Jersey",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Harsimus Cove",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.045842,
+            40.723495
+          ],
+          [
+            -74.045751,
+            40.724003
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Jersey",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Harsimus Cove",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.04574,
+            40.724198
+          ],
+          [
+            -74.045659,
+            40.724702
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Jersey",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Harsimus Cove",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.045638,
+            40.724905
+          ],
+          [
+            -74.045557,
+            40.725413
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Jersey",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Harsimus Cove",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.045348,
+            40.725401
+          ],
+          [
+            -74.045429,
+            40.724865
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Jersey",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Harsimus Cove",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.04545,
+            40.724682
+          ],
+          [
+            -74.04552,
+            40.724174
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Jersey",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Harsimus Cove",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.045528,
+            40.723995
+          ],
+          [
+            -74.045624,
+            40.723463
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Jersey",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Harsimus Cove",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.045631,
+            40.723267
+          ],
+          [
+            -74.045706,
+            40.722759
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Jersey",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Harsimus Cove",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.045739,
+            40.72256
+          ],
+          [
+            -74.045814,
+            40.722048
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Jersey",
+        "street_suffix": "Ave",
+        "sign_title": "Street Sweeping",
+        "start_time": 8,
+        "end_time": 10,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Harsimus Cove",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.046041,
+            40.721449
+          ],
+          [
+            -74.046502,
+            40.720734
+          ]
+        ]
+      }
+    }
+  ]
+}

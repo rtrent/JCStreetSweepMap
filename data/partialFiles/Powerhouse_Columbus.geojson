@@ -1,0 +1,237 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Columbus",
+        "street_suffix": "Dr",
+        "sign_title": "Street Sweeping",
+        "start_time": 6,
+        "end_time": 8,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Powerhouse",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.040915,
+            40.718796
+          ],
+          [
+            -74.039083,
+            40.718214
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Columbus",
+        "street_suffix": "Dr",
+        "sign_title": "Street Sweeping",
+        "start_time": 6,
+        "end_time": 8,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Powerhouse",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.038705,
+            40.718075
+          ],
+          [
+            -74.0374,
+            40.717647
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Columbus",
+        "street_suffix": "Dr",
+        "sign_title": "Street Sweeping",
+        "start_time": 6,
+        "end_time": 8,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Powerhouse",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.036913,
+            40.717498
+          ],
+          [
+            -74.035894,
+            40.717262
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Columbus",
+        "street_suffix": "Dr",
+        "sign_title": "Street Sweeping",
+        "start_time": 6,
+        "end_time": 8,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Powerhouse",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.03544,
+            40.717134
+          ],
+          [
+            -74.034324,
+            40.716922
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Columbus",
+        "street_suffix": "Dr",
+        "sign_title": "Street Sweeping",
+        "start_time": 6,
+        "end_time": 8,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Powerhouse",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.04092,
+            40.719054
+          ],
+          [
+            -74.039064,
+            40.718493
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Columbus",
+        "street_suffix": "Dr",
+        "sign_title": "Street Sweeping",
+        "start_time": 6,
+        "end_time": 8,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Powerhouse",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.038576,
+            40.718331
+          ],
+          [
+            -74.037417,
+            40.717973
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Columbus",
+        "street_suffix": "Dr",
+        "sign_title": "Street Sweeping",
+        "start_time": 6,
+        "end_time": 8,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Powerhouse",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.03686,
+            40.717811
+          ],
+          [
+            -74.03583,
+            40.717527
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Columbus",
+        "street_suffix": "Dr",
+        "sign_title": "Street Sweeping",
+        "start_time": 6,
+        "end_time": 8,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Powerhouse",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.03537,
+            40.717449
+          ],
+          [
+            -74.034791,
+            40.717319
+          ]
+        ]
+      }
+    }
+  ]
+}

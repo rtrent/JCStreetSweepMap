@@ -1,0 +1,61 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Pearl",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 6,
+        "end_time": 7,
+        "sign_days": [
+          "F"
+        ],
+        "neighborhood_name": "Powerhouse",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.035559,
+            40.718165
+          ],
+          [
+            -74.036906,
+            40.718312
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Pearl",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 6,
+        "end_time": 7,
+        "sign_days": [
+          "Th"
+        ],
+        "neighborhood_name": "Powerhouse",
+        "other_rules": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.035634,
+            40.718023
+          ],
+          [
+            -74.036922,
+            40.718157
+          ]
+        ]
+      }
+    }
+  ]
+}
