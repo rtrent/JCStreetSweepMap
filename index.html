@@ -168,7 +168,7 @@
         };
 
         function addStreetsFilters() {
-            $.getJSON("data/test.geojson",function(data){
+            $.getJSON("data/streetdata.geojson",function(data){
                 streetLines = L.geoJson(data,{
                     style: style,
                     onEachFeature: addPopupOnEachFeature,
