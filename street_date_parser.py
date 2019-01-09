@@ -21,10 +21,21 @@ masterfile.append('    "features": [\n')
 
 filenames = glob.glob('data/partialFiles/*.geojson', recursive = True)
 
+#files must be saved as formatted json for this to work
+#with new lines for each line of json
+#if they are saved as a single string it will break
+#geojson.io saves files as a sinlge line
+#need to copy and paste the formatted json
+
+#perhaps I should count the number of lines and if there is a single line
+#do one approach
+#and if there are more than one I know I can use this method
 
 # filenames = [
 #    "data/partialFiles/Hamilton_6th.geojson",
-#    "data/partialFiles/Hamilton_7th.geojson"
+#    "data/partialFiles/Hamilton_7th.geojson",
+#    "data/partialFiles/VanVorst_Wayne.geojson",
+#    "data/partialFiles/VanVorst_York.geojson"
 # ] 
 
 
