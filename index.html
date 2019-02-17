@@ -115,10 +115,11 @@
         function addPopupOnEachFeature(feature, layer) {
             layer
 
-            .bindPopup("<b>" + feature.properties.street_name + " " + feature.properties.street_suffix + "</b><br>"
-                + "Street Sweeping Rules: No parking on " + getSignDays(feature.properties.sign_days) + 
+            .bindPopup("<h3>" + feature.properties.street_name + " " + feature.properties.street_suffix + "</h3>"
+                + "<b>Street Sweeping Rules</b>: No parking on " + getSignDays(feature.properties.sign_days) + 
                 " from " + getTime(feature.properties.start_time) + 
-                " until " + getTime(feature.properties.end_time) + ". " + feature.properties.other_rules)
+                " until " + getTime(feature.properties.end_time) + ". " + feature.properties.other_rules +
+                "<br><b>Parking Zone</b>: " + feature.properties.parking_zone)
 
             //listener for pop up open
             //if try to use .on('click') the color will change, but for some reason the popup doesnt show
@@ -168,7 +169,7 @@
         };
 
         function addStreetsFilters() {
-            $.getJSON("data/test.geojson",function(data){
+            $.getJSON("data/streetdata.geojson",function(data){
                 streetLines = L.geoJson(data,{
                     style: style,
                     onEachFeature: addPopupOnEachFeature,

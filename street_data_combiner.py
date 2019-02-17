@@ -88,7 +88,7 @@ for line in masterfile:
     print(line)
 
 #save to new file
-with open("test.geojson", "w+") as f:
+with open("data/streetdata.geojson", "w+") as f:
     for line in masterfile:
         f.write(line)
     f.close()

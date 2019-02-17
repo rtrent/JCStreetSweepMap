@@ -1,4 +1,4 @@
-﻿{
+{
   "type": "FeatureCollection",
   "features": [
     {
@@ -14,7 +14,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": "Additionally no parking Sat from 9AM to 10AM."
+        "other_rules": "Additionally no parking Sat from 9AM to 10AM.",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -43,7 +44,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": "Additionally no parking Sat from 7:30AM to 9AM."
+        "other_rules": "Additionally no parking Sat from 7:30AM to 9AM.",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -72,7 +74,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": "Additionally no parking Sat from 7:30AM to 9AM."
+        "other_rules": "Additionally no parking Sat from 7:30AM to 9AM.",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -101,7 +104,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": "Additionally no parking Sat from 7:30AM to 9AM."
+        "other_rules": "Additionally no parking Sat from 7:30AM to 9AM.",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -134,7 +138,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": "Additionally no parking Sat from 7:30AM to 9AM."
+        "other_rules": "Additionally no parking Sat from 7:30AM to 9AM.",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -163,7 +168,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": "Additionally no parking Sat from 7:30AM to 9AM."
+        "other_rules": "Additionally no parking Sat from 7:30AM to 9AM.",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -192,7 +198,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": "Additionally no parking Sat from 7:30AM to 9AM."
+        "other_rules": "Additionally no parking Sat from 7:30AM to 9AM.",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -221,7 +228,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": "Additionally no parking Sat from 9AM to 10AM."
+        "other_rules": "Additionally no parking Sat from 9AM to 10AM.",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -250,7 +258,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": "Additionally no parking Sat from 9AM to 10AM."
+        "other_rules": "Additionally no parking Sat from 9AM to 10AM.",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -279,7 +288,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": "Additionally no parking Sat from 9AM to 10AM."
+        "other_rules": "Additionally no parking Sat from 9AM to 10AM.",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -308,7 +318,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": "Additionally no parking Sat from 9AM to 10AM."
+        "other_rules": "Additionally no parking Sat from 9AM to 10AM.",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -341,7 +352,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": "Additionally no parking Sat from 9AM to 10AM."
+        "other_rules": "Additionally no parking Sat from 9AM to 10AM.",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",

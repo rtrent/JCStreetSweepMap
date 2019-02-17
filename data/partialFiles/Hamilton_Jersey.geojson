@@ -1,4 +1,4 @@
-﻿{
+{
   "type": "FeatureCollection",
   "features": [
     {
@@ -13,7 +13,8 @@
           "M",
           "Th"
         ],
-        "other_rules":""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -41,7 +42,8 @@
           "M",
           "Th"
         ],
-        "other_rules":""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -69,7 +71,8 @@
           "M",
           "Th"
         ],
-        "other_rules":""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -98,7 +101,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -127,7 +131,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -156,7 +161,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",

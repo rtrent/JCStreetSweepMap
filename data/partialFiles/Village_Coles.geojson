@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "street_name": "Erie",
+        "street_name": "Coles",
         "street_suffix": "St",
         "sign_title": "Street Sweeping",
         "start_time": 10,
@@ -13,7 +13,7 @@
           "M",
           "Th"
         ],
-        "neighborhood_name": "Hamilton Park",
+        "neighborhood_name": "The Village",
         "other_rules": "",
         "parking_zone": "TBU"
       },
@@ -21,12 +21,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -74.043417,
-            40.726852
+            -74.04764503240584,
+            40.722746148335474
           ],
           [
-            -74.043332,
-            40.72736
+            -74.047671854496,
+            40.72251847656138
           ]
         ]
       }
@@ -34,7 +34,7 @@
     {
       "type": "Feature",
       "properties": {
-        "street_name": "Erie",
+        "street_name": "Coles",
         "street_suffix": "St",
         "sign_title": "Street Sweeping",
         "start_time": 10,
@@ -43,7 +43,7 @@
           "M",
           "Th"
         ],
-        "neighborhood_name": "Hamilton Park",
+        "neighborhood_name": "The Village",
         "other_rules": "",
         "parking_zone": "TBU"
       },
@@ -51,12 +51,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -74.043305,
-            40.72758
+            -74.04723465442657,
+            40.72558384902902
           ],
           [
-            -74.043214,
-            40.728133
+            -74.04732316732407,
+            40.725041117637694
           ]
         ]
       }
@@ -64,7 +64,7 @@
     {
       "type": "Feature",
       "properties": {
-        "street_name": "Erie",
+        "street_name": "Coles",
         "street_suffix": "St",
         "sign_title": "Street Sweeping",
         "start_time": 10,
@@ -73,7 +73,7 @@
           "M",
           "Th"
         ],
-        "neighborhood_name": "Hamilton Park",
+        "neighborhood_name": "The Village",
         "other_rules": "",
         "parking_zone": "TBU"
       },
@@ -81,12 +81,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -74.04319,
-            40.728331
+            -74.04734462499619,
+            40.724868337052484
           ],
           [
-            -74.043105,
-            40.728859
+            -74.0474197268486,
+            40.724341861680124
           ]
         ]
       }
@@ -94,7 +94,7 @@
     {
       "type": "Feature",
       "properties": {
-        "street_name": "Erie",
+        "street_name": "Coles",
         "street_suffix": "St",
         "sign_title": "Street Sweeping",
         "start_time": 10,
@@ -103,7 +103,7 @@
           "M",
           "Th"
         ],
-        "neighborhood_name": "Hamilton Park",
+        "neighborhood_name": "The Village",
         "other_rules": "",
         "parking_zone": "TBU"
       },
@@ -111,12 +111,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -74.043612,
-            40.72544
+            -74.04745988227846,
+            40.72414462014067
           ],
           [
-            -74.043537,
-            40.725993
+            -74.04753588227844,
+            40.723648599113204
           ]
         ]
       }
@@ -124,7 +124,7 @@
     {
       "type": "Feature",
       "properties": {
-        "street_name": "Erie",
+        "street_name": "Coles",
         "street_suffix": "St",
         "sign_title": "Street Sweeping",
         "start_time": 10,
@@ -133,7 +133,7 @@
           "M",
           "Th"
         ],
-        "neighborhood_name": "Hamilton Park",
+        "neighborhood_name": "The Village",
         "other_rules": "",
         "parking_zone": "TBU"
       },
@@ -141,12 +141,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -74.043515,
-            40.726148
+            -74.04754715344237,
+            40.723432263214455
           ],
           [
-            -74.04343,
-            40.726664
+            -74.04762815344239,
+            40.72292024135268
           ]
         ]
       }
@@ -154,7 +154,7 @@
     {
       "type": "Feature",
       "properties": {
-        "street_name": "Erie",
+        "street_name": "Coles",
         "street_suffix": "St",
         "sign_title": "Street Sweeping",
         "start_time": 10,
@@ -163,7 +163,7 @@
           "Tu",
           "F"
         ],
-        "neighborhood_name": "Hamilton Park",
+        "neighborhood_name": "The Village",
         "other_rules": "",
         "parking_zone": "TBU"
       },
@@ -171,12 +171,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -74.043834,
-            40.725476
+            -74.04745015344237,
+            40.722903306006984
           ],
           [
-            -74.043742,
-            40.725981
+            -74.04737681150436,
+            40.723414929668145
           ]
         ]
       }
@@ -184,7 +184,7 @@
     {
       "type": "Feature",
       "properties": {
-        "street_name": "Erie",
+        "street_name": "Coles",
         "street_suffix": "St",
         "sign_title": "Street Sweeping",
         "start_time": 10,
@@ -193,7 +193,7 @@
           "Tu",
           "F"
         ],
-        "neighborhood_name": "Hamilton Park",
+        "neighborhood_name": "The Village",
         "other_rules": "",
         "parking_zone": "TBU"
       },
@@ -201,12 +201,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -74.043729,
-            40.726162
+            -74.04733751786041,
+            40.723598204965086
           ],
           [
-            -74.043654,
-            40.726678
+            -74.0472575178604,
+            40.72411922724329
           ]
         ]
       }
@@ -214,7 +214,7 @@
     {
       "type": "Feature",
       "properties": {
-        "street_name": "Erie",
+        "street_name": "Coles",
         "street_suffix": "St",
         "sign_title": "Street Sweeping",
         "start_time": 10,
@@ -223,7 +223,7 @@
           "Tu",
           "F"
         ],
-        "neighborhood_name": "Hamilton Park",
+        "neighborhood_name": "The Village",
         "other_rules": "",
         "parking_zone": "TBU"
       },
@@ -231,12 +231,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -74.043615,
-            40.726889
+            -74.04721587896347,
+            40.724333730753706
           ],
           [
-            -74.043416,
-            40.728175
+            -74.04713273048401,
+            40.72484800989534
           ]
         ]
       }
@@ -244,7 +244,7 @@
     {
       "type": "Feature",
       "properties": {
-        "street_name": "Erie",
+        "street_name": "Coles",
         "street_suffix": "St",
         "sign_title": "Street Sweeping",
         "start_time": 10,
@@ -253,7 +253,7 @@
           "Tu",
           "F"
         ],
-        "neighborhood_name": "Hamilton Park",
+        "neighborhood_name": "The Village",
         "other_rules": "",
         "parking_zone": "TBU"
       },
@@ -261,12 +261,118 @@
         "type": "LineString",
         "coordinates": [
           [
-            -74.043393,
-            40.728352
+            -74.04710054397582,
+            40.72502688866526
           ],
           [
-            -74.043323,
-            40.728884
+            -74.04702007770537,
+            40.72556148939621
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Coles",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 10,
+        "end_time": 12,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.04751092195511,
+            40.7224330994453
+          ],
+          [
+            -74.04748141765594,
+            40.722729886091734
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Coles",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 10,
+        "end_time": 12,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.04777109622955,
+            40.72203263865366
+          ],
+          [
+            -74.04780864715576,
+            40.72189847358565
+          ],
+          [
+            -74.04802590608597,
+            40.72161184730709
+          ],
+          [
+            -74.04822170734406,
+            40.72127439918446
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Coles",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 10,
+        "end_time": 12,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.04764235019684,
+            40.72201840903806
+          ],
+          [
+            -74.04766112565994,
+            40.7219269328651
+          ],
+          [
+            -74.04788911342621,
+            40.721589486339845
+          ],
+          [
+            -74.04809564352036,
+            40.72122764418914
           ]
         ]
       }

@@ -1,4 +1,4 @@
-﻿{
+{
   "type": "FeatureCollection",
   "features": [
     {
@@ -14,7 +14,8 @@
           "F"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",

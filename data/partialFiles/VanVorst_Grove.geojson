@@ -1,4 +1,4 @@
-﻿{
+{
   "type": "FeatureCollection",
   "features": [
     {
@@ -15,7 +15,8 @@
           "Sa"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -45,7 +46,8 @@
           "Sa"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -75,7 +77,8 @@
           "Sa"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -105,7 +108,8 @@
           "Sa"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -135,7 +139,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -165,7 +170,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -195,7 +201,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -225,7 +232,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -255,7 +263,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -285,7 +294,8 @@
           "Sa"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",

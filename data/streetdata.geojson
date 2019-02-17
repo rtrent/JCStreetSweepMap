@@ -1,1514 +1,6 @@
-﻿{
+{
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "6th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "M",
-          "Th"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.042178,
-            40.725293
-          ],
-          [
-            -74.043637,
-            40.725403
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "6th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "M",
-          "Th"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.043828,
-            40.725439
-          ],
-          [
-            -74.045309,
-            40.725561
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "6th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "M",
-          "Th"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.045499,
-            40.725568
-          ],
-          [
-            -74.047017,
-            40.725714
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "6th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "M",
-          "Th"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.047194,
-            40.725718
-          ],
-          [
-            -74.048648,
-            40.725852
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "6th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "M",
-          "Th"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.048826,
-            40.725856
-          ],
-          [
-            -74.050307,
-            40.725999
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "6th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "M",
-          "Th"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.050486,
-            40.726011
-          ],
-          [
-            -74.051946,
-            40.726145
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "6th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "Tu",
-          "F"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.051999,
-            40.726011
-          ],
-          [
-            -74.050535,
-            40.725881
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "6th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "Tu",
-          "F"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.050345,
-            40.725856
-          ],
-          [
-            -74.048892,
-            40.72573
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "6th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "Tu",
-          "F"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.04865,
-            40.725716
-          ],
-          [
-            -74.047255,
-            40.725602
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "6th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "Tu",
-          "F"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.046994,
-            40.725566
-          ],
-          [
-            -74.04554,
-            40.725436
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "7th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "Tu",
-          "F"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.052835,
-            40.726806
-          ],
-          [
-            -74.052089,
-            40.726728
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "7th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "Tu",
-          "F"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.051863,
-            40.726702
-          ],
-          [
-            -74.050476,
-            40.726575
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "7th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "Tu",
-          "F"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.050194,
-            40.726577
-          ],
-          [
-            -74.04878,
-            40.726447
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "7th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "Tu",
-          "F"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.048575,
-            40.726429
-          ],
-          [
-            -74.04712,
-            40.726304
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "7th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "Tu",
-          "F"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.046887,
-            40.726281
-          ],
-          [
-            -74.045463,
-            40.726157
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "7th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "Tu",
-          "F"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.045145,
-            40.726115
-          ],
-          [
-            -74.043759,
-            40.726008
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "7th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "Tu",
-          "F"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.043523,
-            40.725989
-          ],
-          [
-            -74.042136,
-            40.725849
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "7th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "M",
-          "Th"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.042126,
-            40.726024
-          ],
-          [
-            -74.04351,
-            40.72614
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "7th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "M",
-          "Th"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.043714,
-            40.726162
-          ],
-          [
-            -74.045148,
-            40.726288
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "7th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "M",
-          "Th"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.045462,
-            40.726309
-          ],
-          [
-            -74.046873,
-            40.726431
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "7th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "M",
-          "Th"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.047129,
-            40.726471
-          ],
-          [
-            -74.048539,
-            40.726585
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "7th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "M",
-          "Th"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.048761,
-            40.72662
-          ],
-          [
-            -74.050197,
-            40.726725
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "7th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "M",
-          "Th"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.050438,
-            40.72675
-          ],
-          [
-            -74.051812,
-            40.726865
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "7th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "M",
-          "Th"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.052046,
-            40.726895
-          ],
-          [
-            -74.052786,
-            40.72694
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "8th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "Tu",
-          "F"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.051777,
-            40.727574
-          ],
-          [
-            -74.050299,
-            40.727455
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "8th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "Tu",
-          "F"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.050067,
-            40.727446
-          ],
-          [
-            -74.048666,
-            40.727329
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "8th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "Tu",
-          "F"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.048406,
-            40.727296
-          ],
-          [
-            -74.04701,
-            40.727186
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "8th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "Tu",
-          "F"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.046791,
-            40.72715
-          ],
-          [
-            -74.046292,
-            40.727113
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "8th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "Tu",
-          "F"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.046046,
-            40.727093
-          ],
-          [
-            -74.044359,
-            40.726938
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "8th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "Tu",
-          "F"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.044121,
-            40.726919
-          ],
-          [
-            -74.043617,
-            40.72687
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "8th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "Tu",
-          "F"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.043384,
-            40.726867
-          ],
-          [
-            -74.042015,
-            40.726747
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "8th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "Tu",
-          "F"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.041693,
-            40.726738
-          ],
-          [
-            -74.040375,
-            40.726631
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "8th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "M",
-          "Th"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.040397,
-            40.726415
-          ],
-          [
-            -74.041737,
-            40.726537
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "8th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "M",
-          "Th"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.042031,
-            40.726543
-          ],
-          [
-            -74.04341,
-            40.726689
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "8th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "M",
-          "Th"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.043651,
-            40.726681
-          ],
-          [
-            -74.045079,
-            40.726824
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "8th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "M",
-          "Th"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.045388,
-            40.726848
-          ],
-          [
-            -74.046784,
-            40.726984
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "8th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "M",
-          "Th"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.047023,
-            40.726977
-          ],
-          [
-            -74.048421,
-            40.727108
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "8th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "M",
-          "Th"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.048645,
-            40.727131
-          ],
-          [
-            -74.050107,
-            40.727265
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "8th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "M",
-          "Th"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.050349,
-            40.727281
-          ],
-          [
-            -74.051745,
-            40.727407
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "9th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "Tu",
-          "F"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.051554,
-            40.728923
-          ],
-          [
-            -74.050062,
-            40.728812
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "9th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "Tu",
-          "F"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.049838,
-            40.728782
-          ],
-          [
-            -74.048437,
-            40.728656
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "9th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "Tu",
-          "F"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.048222,
-            40.728632
-          ],
-          [
-            -74.046785,
-            40.728489
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "9th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "Tu",
-          "F"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.046542,
-            40.72848
-          ],
-          [
-            -74.046113,
-            40.728451
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "9th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "Tu",
-          "F"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.045829,
-            40.728407
-          ],
-          [
-            -74.04417,
-            40.728272
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "9th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "Tu",
-          "F"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.04391,
-            40.728241
-          ],
-          [
-            -74.043416,
-            40.728208
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "9th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "Tu",
-          "F"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.043172,
-            40.728176
-          ],
-          [
-            -74.041789,
-            40.728046
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "9th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "M",
-          "Th"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.041762,
-            40.728201
-          ],
-          [
-            -74.043161,
-            40.728331
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "9th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "M",
-          "Th"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.043405,
-            40.728346
-          ],
-          [
-            -74.044817,
-            40.728465
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "9th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "M",
-          "Th"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.045101,
-            40.728482
-          ],
-          [
-            -74.046547,
-            40.72862
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "9th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "M",
-          "Th"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.046781,
-            40.728644
-          ],
-          [
-            -74.048189,
-            40.728758
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "9th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "M",
-          "Th"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.048415,
-            40.728803
-          ],
-          [
-            -74.049829,
-            40.728918
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "street_name": "9th",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "M",
-          "Th"
-        ],
-        "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -74.050093,
-            40.728934
-          ],
-          [
-            -74.051515,
-            40.72905
-          ]
-        ]
-      }
-    },
+    "features": [
     {
       "type": "Feature",
       "properties": {
@@ -1522,7 +14,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -1551,7 +44,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -1580,7 +74,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -1609,7 +104,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -1638,7 +134,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -1667,7 +164,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -1686,6 +184,1566 @@
     {
       "type": "Feature",
       "properties": {
+        "street_name": "6th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.042178,
+            40.725293
+          ],
+          [
+            -74.043637,
+            40.725403
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "6th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.043828,
+            40.725439
+          ],
+          [
+            -74.045309,
+            40.725561
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "6th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.045499,
+            40.725568
+          ],
+          [
+            -74.047017,
+            40.725714
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "6th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.047194,
+            40.725718
+          ],
+          [
+            -74.048648,
+            40.725852
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "6th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.048826,
+            40.725856
+          ],
+          [
+            -74.050307,
+            40.725999
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "6th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.050486,
+            40.726011
+          ],
+          [
+            -74.051946,
+            40.726145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "6th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.051999,
+            40.726011
+          ],
+          [
+            -74.050535,
+            40.725881
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "6th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.050345,
+            40.725856
+          ],
+          [
+            -74.048892,
+            40.72573
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "6th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.04865,
+            40.725716
+          ],
+          [
+            -74.047255,
+            40.725602
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "6th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.046994,
+            40.725566
+          ],
+          [
+            -74.04554,
+            40.725436
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "7th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.052835,
+            40.726806
+          ],
+          [
+            -74.052089,
+            40.726728
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "7th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.051863,
+            40.726702
+          ],
+          [
+            -74.050476,
+            40.726575
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "7th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.050194,
+            40.726577
+          ],
+          [
+            -74.04878,
+            40.726447
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "7th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.048575,
+            40.726429
+          ],
+          [
+            -74.04712,
+            40.726304
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "7th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.046887,
+            40.726281
+          ],
+          [
+            -74.045463,
+            40.726157
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "7th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.045145,
+            40.726115
+          ],
+          [
+            -74.043759,
+            40.726008
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "7th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.043523,
+            40.725989
+          ],
+          [
+            -74.042136,
+            40.725849
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "7th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.042126,
+            40.726024
+          ],
+          [
+            -74.04351,
+            40.72614
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "7th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.043714,
+            40.726162
+          ],
+          [
+            -74.045148,
+            40.726288
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "7th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.045462,
+            40.726309
+          ],
+          [
+            -74.046873,
+            40.726431
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "7th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.047129,
+            40.726471
+          ],
+          [
+            -74.048539,
+            40.726585
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "7th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.048761,
+            40.72662
+          ],
+          [
+            -74.050197,
+            40.726725
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "7th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.050438,
+            40.72675
+          ],
+          [
+            -74.051812,
+            40.726865
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "7th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.052046,
+            40.726895
+          ],
+          [
+            -74.052786,
+            40.72694
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "8th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.051777,
+            40.727574
+          ],
+          [
+            -74.050299,
+            40.727455
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "8th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.050067,
+            40.727446
+          ],
+          [
+            -74.048666,
+            40.727329
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "8th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.048406,
+            40.727296
+          ],
+          [
+            -74.04701,
+            40.727186
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "8th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.046791,
+            40.72715
+          ],
+          [
+            -74.046292,
+            40.727113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "8th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.046046,
+            40.727093
+          ],
+          [
+            -74.044359,
+            40.726938
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "8th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.044121,
+            40.726919
+          ],
+          [
+            -74.043617,
+            40.72687
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "8th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.043384,
+            40.726867
+          ],
+          [
+            -74.042015,
+            40.726747
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "8th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.041693,
+            40.726738
+          ],
+          [
+            -74.040375,
+            40.726631
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "8th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.040397,
+            40.726415
+          ],
+          [
+            -74.041737,
+            40.726537
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "8th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.042031,
+            40.726543
+          ],
+          [
+            -74.04341,
+            40.726689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "8th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.043651,
+            40.726681
+          ],
+          [
+            -74.045079,
+            40.726824
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "8th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.045388,
+            40.726848
+          ],
+          [
+            -74.046784,
+            40.726984
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "8th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.047023,
+            40.726977
+          ],
+          [
+            -74.048421,
+            40.727108
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "8th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.048645,
+            40.727131
+          ],
+          [
+            -74.050107,
+            40.727265
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "8th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.050349,
+            40.727281
+          ],
+          [
+            -74.051745,
+            40.727407
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "9th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.051554,
+            40.728923
+          ],
+          [
+            -74.050062,
+            40.728812
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "9th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.049838,
+            40.728782
+          ],
+          [
+            -74.048437,
+            40.728656
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "9th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.048222,
+            40.728632
+          ],
+          [
+            -74.046785,
+            40.728489
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "9th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.046542,
+            40.72848
+          ],
+          [
+            -74.046113,
+            40.728451
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "9th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.045829,
+            40.728407
+          ],
+          [
+            -74.04417,
+            40.728272
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "9th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.04391,
+            40.728241
+          ],
+          [
+            -74.043416,
+            40.728208
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "9th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.043172,
+            40.728176
+          ],
+          [
+            -74.041789,
+            40.728046
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "9th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.041762,
+            40.728201
+          ],
+          [
+            -74.043161,
+            40.728331
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "9th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.043405,
+            40.728346
+          ],
+          [
+            -74.044817,
+            40.728465
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "9th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.045101,
+            40.728482
+          ],
+          [
+            -74.046547,
+            40.72862
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "9th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.046781,
+            40.728644
+          ],
+          [
+            -74.048189,
+            40.728758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "9th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.048415,
+            40.728803
+          ],
+          [
+            -74.049829,
+            40.728918
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "9th",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 13,
+        "end_time": 15,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "Hamilton Park",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.050093,
+            40.728934
+          ],
+          [
+            -74.051515,
+            40.72905
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "street_name": "Brunswick",
         "street_suffix": "St",
         "sign_title": "Street Sweeping",
@@ -1696,7 +1754,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -1725,7 +1784,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -1754,7 +1814,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -1783,7 +1844,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -1812,7 +1874,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -1841,7 +1904,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -1870,7 +1934,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -1899,7 +1964,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -1928,7 +1994,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -1957,7 +2024,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -1986,7 +2054,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2015,7 +2084,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2044,7 +2114,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2073,7 +2144,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2102,7 +2174,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2131,7 +2204,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2160,7 +2234,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2189,7 +2264,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2218,7 +2294,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2247,7 +2324,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2276,7 +2354,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2305,7 +2384,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2334,7 +2414,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2363,7 +2444,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2392,7 +2474,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2421,7 +2504,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2450,7 +2534,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2479,7 +2564,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2508,7 +2594,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2537,7 +2624,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2566,7 +2654,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2595,7 +2684,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2623,7 +2713,8 @@
           "M",
           "Th"
         ],
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2651,7 +2742,8 @@
           "M",
           "Th"
         ],
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2679,7 +2771,8 @@
           "M",
           "Th"
         ],
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2708,7 +2801,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2737,7 +2831,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2766,7 +2861,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2795,7 +2891,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2824,7 +2921,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2853,7 +2951,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2882,7 +2981,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2911,7 +3011,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2940,7 +3041,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2969,7 +3071,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -2998,7 +3101,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3027,7 +3131,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3056,7 +3161,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3085,7 +3191,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3114,7 +3221,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3143,7 +3251,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3172,7 +3281,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3201,7 +3311,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3230,7 +3341,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3259,7 +3371,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3288,7 +3401,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3317,7 +3431,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3346,7 +3461,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3375,7 +3491,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3404,7 +3521,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3433,7 +3551,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3462,7 +3581,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3491,7 +3611,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3520,7 +3641,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3549,7 +3671,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3578,7 +3701,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3607,7 +3731,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3636,7 +3761,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3665,7 +3791,8 @@
           "F"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3694,7 +3821,8 @@
           "F"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3723,7 +3851,8 @@
           "F"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3752,7 +3881,8 @@
           "F"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3781,7 +3911,8 @@
           "F"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3810,7 +3941,8 @@
           "F"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3839,7 +3971,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3868,7 +4001,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3897,7 +4031,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3926,7 +4061,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3955,7 +4091,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -3984,7 +4121,8 @@
           "F"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4013,7 +4151,8 @@
           "F"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4042,7 +4181,8 @@
           "F"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4071,7 +4211,8 @@
           "F"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4100,7 +4241,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4129,7 +4271,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4158,7 +4301,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4187,7 +4331,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4216,7 +4361,8 @@
           "F"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4245,7 +4391,8 @@
           "F"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4274,7 +4421,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4303,7 +4451,8 @@
           "F"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4332,7 +4481,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4361,7 +4511,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4390,7 +4541,8 @@
           "F"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4419,7 +4571,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4448,7 +4601,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4477,7 +4631,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4506,7 +4661,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4535,7 +4691,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4564,7 +4721,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4593,7 +4751,8 @@
           "F"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4622,7 +4781,8 @@
           "F"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4651,7 +4811,8 @@
           "F"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4680,7 +4841,8 @@
           "F"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4709,7 +4871,8 @@
           "F"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4738,7 +4901,8 @@
           "F"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4767,7 +4931,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4796,7 +4961,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4825,7 +4991,8 @@
           "F"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4854,7 +5021,8 @@
           "F"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4883,7 +5051,8 @@
           "F"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4912,7 +5081,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4941,7 +5111,8 @@
           "F"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4970,7 +5141,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -4999,7 +5171,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5028,7 +5201,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5057,7 +5231,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5086,7 +5261,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5115,7 +5291,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5144,7 +5321,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5173,7 +5351,8 @@
           "F"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5202,7 +5381,8 @@
           "F"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5231,7 +5411,8 @@
           "F"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5260,7 +5441,8 @@
           "F"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5289,7 +5471,8 @@
           "F"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5318,7 +5501,8 @@
           "F"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5347,7 +5531,8 @@
           "F"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5376,7 +5561,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5405,7 +5591,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5434,7 +5621,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5463,7 +5651,8 @@
           "Th"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5492,7 +5681,8 @@
           "F"
         ],
         "neighborhood_name": "Harsimus Cove",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5521,7 +5711,8 @@
           "Th"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5550,7 +5741,8 @@
           "F"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5579,7 +5771,8 @@
           "Th"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5608,7 +5801,8 @@
           "Th"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5637,7 +5831,8 @@
           "Th"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5666,7 +5861,8 @@
           "Th"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5695,7 +5891,8 @@
           "F"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5724,7 +5921,8 @@
           "F"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5753,7 +5951,8 @@
           "F"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5782,7 +5981,8 @@
           "F"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5811,7 +6011,8 @@
           "F"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5840,7 +6041,8 @@
           "Th"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5869,7 +6071,8 @@
           "Th"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5898,7 +6101,8 @@
           "Th"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5927,7 +6131,8 @@
           "F"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5956,7 +6161,8 @@
           "F"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -5985,7 +6191,8 @@
           "F"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6014,7 +6221,8 @@
           "Th"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6043,7 +6251,8 @@
           "Th"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6071,7 +6280,8 @@
           "M"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6099,7 +6309,8 @@
           "Tu"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6128,7 +6339,8 @@
           "F"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6157,7 +6369,8 @@
           "F"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6186,7 +6399,8 @@
           "F"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6215,7 +6429,8 @@
           "F"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6244,7 +6459,8 @@
           "F"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6273,7 +6489,8 @@
           "Th"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6302,7 +6519,8 @@
           "Th"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6331,7 +6549,8 @@
           "Th"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6360,7 +6579,8 @@
           "Th"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6389,7 +6609,8 @@
           "F"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6418,7 +6639,8 @@
           "Th"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6447,7 +6669,8 @@
           "Th"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6476,7 +6699,8 @@
           "Th"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6505,7 +6729,8 @@
           "F"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6534,7 +6759,8 @@
           "F"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6563,7 +6789,8 @@
           "F"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6592,7 +6819,8 @@
           "Th"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6621,7 +6849,8 @@
           "Th"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6650,7 +6879,8 @@
           "Th"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6679,7 +6909,8 @@
           "Th"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6708,7 +6939,8 @@
           "F"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6737,7 +6969,8 @@
           "F"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6766,7 +6999,8 @@
           "F"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6795,7 +7029,8 @@
           "F"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6824,7 +7059,8 @@
           "Th"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6853,7 +7089,8 @@
           "F"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6882,7 +7119,8 @@
           "Th"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6911,7 +7149,8 @@
           "F"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6940,7 +7179,8 @@
           "Th"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6969,7 +7209,8 @@
           "Th"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -6998,7 +7239,8 @@
           "F"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7027,7 +7269,8 @@
           "F"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7056,7 +7299,8 @@
           "F"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7085,7 +7329,8 @@
           "Th"
         ],
         "neighborhood_name": "Paulus Hook",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7113,7 +7358,8 @@
           "M"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7141,7 +7387,8 @@
           "M"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7170,7 +7417,8 @@
           "Th"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7199,7 +7447,8 @@
           "Th"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7228,7 +7477,8 @@
           "Th"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7265,7 +7515,8 @@
           "F"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7294,7 +7545,8 @@
           "F"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7323,7 +7575,8 @@
           "F"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7352,7 +7605,8 @@
           "F"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7385,7 +7639,8 @@
           "F"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7413,7 +7668,8 @@
           "M"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7441,7 +7697,8 @@
           "M"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7469,7 +7726,8 @@
           "M"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7497,7 +7755,8 @@
           "M"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7525,7 +7784,8 @@
           "Tu"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7553,7 +7813,8 @@
           "Tu"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7581,7 +7842,8 @@
           "Tu"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7609,7 +7871,8 @@
           "Tu"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7638,7 +7901,8 @@
           "Th"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7667,7 +7931,8 @@
           "Th"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7696,7 +7961,8 @@
           "Th"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7725,7 +7991,8 @@
           "Th"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7754,7 +8021,8 @@
           "F"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7783,7 +8051,8 @@
           "F"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7812,7 +8081,8 @@
           "F"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7841,7 +8111,8 @@
           "F"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7869,7 +8140,8 @@
           "F"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7897,7 +8169,8 @@
           "Th"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7926,7 +8199,8 @@
           "F"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7955,7 +8229,8 @@
           "Th"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -7983,7 +8258,8 @@
           "F"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8012,7 +8288,8 @@
           "Th"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8041,7 +8318,8 @@
           "F"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8070,7 +8348,8 @@
           "F"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8099,7 +8378,8 @@
           "F"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8128,7 +8408,8 @@
           "Th"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8157,7 +8438,8 @@
           "Th"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8186,7 +8468,8 @@
           "Th"
         ],
         "neighborhood_name": "Powerhouse",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8215,7 +8498,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8244,7 +8528,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8273,7 +8558,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8302,7 +8588,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8331,7 +8618,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8360,7 +8648,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8389,7 +8678,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8422,7 +8712,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8451,7 +8742,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8480,7 +8772,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8509,7 +8802,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8538,7 +8832,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8567,7 +8862,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8596,7 +8892,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8625,7 +8922,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8654,7 +8952,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8683,7 +8982,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8716,7 +9016,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8753,7 +9054,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8782,7 +9084,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8811,7 +9114,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8840,7 +9144,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8869,7 +9174,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8898,7 +9204,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8927,7 +9234,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8956,7 +9264,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -8985,7 +9294,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9014,7 +9324,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9043,7 +9354,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9072,7 +9384,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9101,7 +9414,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9130,7 +9444,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9159,7 +9474,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9188,7 +9504,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9217,7 +9534,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9246,7 +9564,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9275,7 +9594,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9304,7 +9624,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9333,7 +9654,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9362,7 +9684,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9391,7 +9714,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9420,7 +9744,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9449,7 +9774,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9478,7 +9804,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9508,7 +9835,8 @@
           "Sa"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9538,7 +9866,8 @@
           "Sa"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9568,7 +9897,8 @@
           "Sa"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9598,7 +9928,8 @@
           "Sa"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9628,7 +9959,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9658,7 +9990,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9688,7 +10021,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9718,7 +10052,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9748,7 +10083,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9778,7 +10114,8 @@
           "Sa"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9807,7 +10144,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9836,7 +10174,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9865,7 +10204,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9894,7 +10234,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9923,7 +10264,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9952,7 +10294,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -9981,7 +10324,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10010,7 +10354,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10039,7 +10384,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10068,7 +10414,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10097,7 +10444,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10126,7 +10474,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10155,7 +10504,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10184,7 +10534,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10213,7 +10564,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10242,7 +10594,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10275,7 +10628,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10304,7 +10658,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10333,7 +10688,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10362,7 +10718,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10391,7 +10748,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10420,7 +10778,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10449,7 +10808,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10478,7 +10838,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10507,7 +10868,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10536,7 +10898,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10565,7 +10928,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10594,7 +10958,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10623,7 +10988,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10652,7 +11018,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10681,7 +11048,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10710,7 +11078,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10739,7 +11108,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10768,7 +11138,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10797,7 +11168,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10826,7 +11198,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10855,7 +11228,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10884,7 +11258,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10913,7 +11288,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10942,7 +11318,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -10971,7 +11348,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11000,7 +11378,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11029,7 +11408,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11058,7 +11438,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11087,7 +11468,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11116,7 +11498,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11145,7 +11528,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11174,7 +11558,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11203,7 +11588,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11232,7 +11618,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11261,7 +11648,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11290,7 +11678,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11319,7 +11708,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11348,7 +11738,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11377,7 +11768,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11406,7 +11798,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11435,7 +11828,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11464,7 +11858,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11493,7 +11888,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11522,7 +11918,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11551,7 +11948,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11580,7 +11978,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11609,7 +12008,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11638,7 +12038,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11667,7 +12068,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11696,7 +12098,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11725,7 +12128,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11754,7 +12158,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11783,7 +12188,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11812,18 +12218,19 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -74.049557,
-            40.718357
+            -74.04948770999908,
+            40.71850969954109
           ],
           [
-            -74.048334,
-            40.717966
+            -74.04826426256561,
+            40.718144897265596
           ]
         ]
       }
@@ -11841,18 +12248,19 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -74.049501,
-            40.718499
+            -74.04960292394256,
+            40.718356696152966
           ],
           [
-            -74.048246,
-            40.718126
+            -74.04834792394256,
+            40.717983695355635
           ]
         ]
       }
@@ -11870,7 +12278,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11899,7 +12308,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11928,7 +12338,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11957,7 +12368,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -11986,7 +12398,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12015,7 +12428,8 @@
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12044,7 +12458,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12073,7 +12488,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12102,7 +12518,8 @@
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12131,7 +12548,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12164,7 +12582,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12201,7 +12620,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12230,7 +12650,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12259,7 +12680,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12288,7 +12710,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12317,7 +12740,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12346,7 +12770,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12375,7 +12800,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12404,7 +12830,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12441,7 +12868,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12474,7 +12902,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12503,7 +12932,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12536,7 +12966,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12565,7 +12996,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12594,7 +13026,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12623,7 +13056,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12656,7 +13090,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12685,7 +13120,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12714,7 +13150,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12743,7 +13180,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12772,7 +13210,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12805,7 +13244,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12834,7 +13274,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12863,7 +13304,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12896,7 +13338,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12925,7 +13368,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12954,7 +13398,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -12983,7 +13428,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13012,7 +13458,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13041,7 +13488,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13070,7 +13518,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13103,7 +13552,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13132,7 +13582,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13161,7 +13612,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13190,7 +13642,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13219,7 +13672,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13248,7 +13702,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13277,7 +13732,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13310,7 +13766,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13339,7 +13796,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13368,7 +13826,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13397,7 +13856,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13426,7 +13886,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13455,7 +13916,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13484,7 +13946,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13513,7 +13976,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13542,7 +14006,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13571,7 +14036,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13600,7 +14066,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13629,7 +14096,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13658,7 +14126,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13687,7 +14156,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13716,7 +14186,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13745,7 +14216,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13774,7 +14246,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13803,7 +14276,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13822,6 +14296,382 @@
     {
       "type": "Feature",
       "properties": {
+        "street_name": "Coles",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 10,
+        "end_time": 12,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.04764503240584,
+            40.722746148335474
+          ],
+          [
+            -74.047671854496,
+            40.72251847656138
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Coles",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 10,
+        "end_time": 12,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.04723465442657,
+            40.72558384902902
+          ],
+          [
+            -74.04732316732407,
+            40.725041117637694
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Coles",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 10,
+        "end_time": 12,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.04734462499619,
+            40.724868337052484
+          ],
+          [
+            -74.0474197268486,
+            40.724341861680124
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Coles",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 10,
+        "end_time": 12,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.04745988227846,
+            40.72414462014067
+          ],
+          [
+            -74.04753588227844,
+            40.723648599113204
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Coles",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 10,
+        "end_time": 12,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.04754715344237,
+            40.723432263214455
+          ],
+          [
+            -74.04762815344239,
+            40.72292024135268
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Coles",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 10,
+        "end_time": 12,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.04745015344237,
+            40.722903306006984
+          ],
+          [
+            -74.04737681150436,
+            40.723414929668145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Coles",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 10,
+        "end_time": 12,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.04733751786041,
+            40.723598204965086
+          ],
+          [
+            -74.0472575178604,
+            40.72411922724329
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Coles",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 10,
+        "end_time": 12,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.04721587896347,
+            40.724333730753706
+          ],
+          [
+            -74.04713273048401,
+            40.72484800989534
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Coles",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 10,
+        "end_time": 12,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.04710054397582,
+            40.72502688866526
+          ],
+          [
+            -74.04702007770537,
+            40.72556148939621
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Coles",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 10,
+        "end_time": 12,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.04751092195511,
+            40.7224330994453
+          ],
+          [
+            -74.04748141765594,
+            40.722729886091734
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Coles",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 10,
+        "end_time": 12,
+        "sign_days": [
+          "M",
+          "Th"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.04777109622955,
+            40.72203263865366
+          ],
+          [
+            -74.04780864715576,
+            40.72189847358565
+          ],
+          [
+            -74.04802590608597,
+            40.72161184730709
+          ],
+          [
+            -74.04822170734406,
+            40.72127439918446
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "street_name": "Coles",
+        "street_suffix": "St",
+        "sign_title": "Street Sweeping",
+        "start_time": 10,
+        "end_time": 12,
+        "sign_days": [
+          "Tu",
+          "F"
+        ],
+        "neighborhood_name": "The Village",
+        "other_rules": "",
+        "parking_zone": "TBU"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.04764235019684,
+            40.72201840903806
+          ],
+          [
+            -74.04766112565994,
+            40.7219269328651
+          ],
+          [
+            -74.04788911342621,
+            40.721589486339845
+          ],
+          [
+            -74.04809564352036,
+            40.72122764418914
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "street_name": "Colgate",
         "street_suffix": "St",
         "sign_title": "Street Sweeping",
@@ -13832,7 +14682,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13861,7 +14712,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13890,7 +14742,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13919,7 +14772,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13948,7 +14802,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -13977,7 +14832,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -14006,7 +14862,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -14035,7 +14892,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -14064,7 +14922,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -14093,7 +14952,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -14122,7 +14982,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -14151,7 +15012,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -14180,7 +15042,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -14209,7 +15072,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -14238,7 +15102,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -14267,7 +15132,8 @@
           "Th"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -14296,7 +15162,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": "Additionally no parking Sat from 9AM to 10AM."
+        "other_rules": "Additionally no parking Sat from 9AM to 10AM.",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -14325,7 +15192,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": "Additionally no parking Sat from 7:30AM to 9AM."
+        "other_rules": "Additionally no parking Sat from 7:30AM to 9AM.",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -14354,7 +15222,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": "Additionally no parking Sat from 7:30AM to 9AM."
+        "other_rules": "Additionally no parking Sat from 7:30AM to 9AM.",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -14383,7 +15252,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": "Additionally no parking Sat from 7:30AM to 9AM."
+        "other_rules": "Additionally no parking Sat from 7:30AM to 9AM.",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -14416,7 +15286,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": "Additionally no parking Sat from 7:30AM to 9AM."
+        "other_rules": "Additionally no parking Sat from 7:30AM to 9AM.",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -14445,7 +15316,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": "Additionally no parking Sat from 7:30AM to 9AM."
+        "other_rules": "Additionally no parking Sat from 7:30AM to 9AM.",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -14474,7 +15346,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": "Additionally no parking Sat from 7:30AM to 9AM."
+        "other_rules": "Additionally no parking Sat from 7:30AM to 9AM.",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -14503,7 +15376,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": "Additionally no parking Sat from 9AM to 10AM."
+        "other_rules": "Additionally no parking Sat from 9AM to 10AM.",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -14532,7 +15406,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": "Additionally no parking Sat from 9AM to 10AM."
+        "other_rules": "Additionally no parking Sat from 9AM to 10AM.",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -14561,7 +15436,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": "Additionally no parking Sat from 9AM to 10AM."
+        "other_rules": "Additionally no parking Sat from 9AM to 10AM.",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -14590,7 +15466,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": "Additionally no parking Sat from 9AM to 10AM."
+        "other_rules": "Additionally no parking Sat from 9AM to 10AM.",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -14623,7 +15500,8 @@
           "F"
         ],
         "neighborhood_name": "The Village",
-        "other_rules": "Additionally no parking Sat from 9AM to 10AM."
+        "other_rules": "Additionally no parking Sat from 9AM to 10AM.",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",

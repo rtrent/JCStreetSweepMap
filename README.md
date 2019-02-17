@@ -3,8 +3,9 @@
 This project is to catalog and map all parking rules related to street sweeping 
 in Jersey City. My initial pass of this has focused on Downtown.
 
-No other parking rules are captured by this project. That means this data will
-tell you nothing about no parking rules for any other reason. 
+This data will not provide information regarding other kinds of parking rules.
+For example, if a street has a sign stating "No parking at all times", this
+map will not have that information.
 
 Data may not be 100% accurate. Always consult posted signs when making a decision
 about where to park. Please help report any errors.

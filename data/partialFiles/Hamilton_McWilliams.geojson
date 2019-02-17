@@ -1,4 +1,4 @@
-﻿{
+{
   "type": "FeatureCollection",
   "features": [
     {
@@ -14,7 +14,8 @@
           "F"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
@@ -43,7 +44,8 @@
           "Th"
         ],
         "neighborhood_name": "Hamilton Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "TBU"
       },
       "geometry": {
         "type": "LineString",
