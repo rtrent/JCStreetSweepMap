@@ -15,7 +15,7 @@
         ],
         "neighborhood_name": "Hamilton Park",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 6"
       },
       "geometry": {
         "type": "LineString",
@@ -45,7 +45,7 @@
         ],
         "neighborhood_name": "Hamilton Park",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 6"
       },
       "geometry": {
         "type": "LineString",
@@ -75,7 +75,7 @@
         ],
         "neighborhood_name": "Hamilton Park",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 6"
       },
       "geometry": {
         "type": "LineString",
@@ -105,7 +105,7 @@
         ],
         "neighborhood_name": "Hamilton Park",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 6"
       },
       "geometry": {
         "type": "LineString",
@@ -135,7 +135,7 @@
         ],
         "neighborhood_name": "Hamilton Park",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 6"
       },
       "geometry": {
         "type": "LineString",
@@ -165,7 +165,7 @@
         ],
         "neighborhood_name": "Hamilton Park",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 6"
       },
       "geometry": {
         "type": "LineString",
@@ -195,7 +195,7 @@
         ],
         "neighborhood_name": "Hamilton Park",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 6"
       },
       "geometry": {
         "type": "LineString",
@@ -225,7 +225,7 @@
         ],
         "neighborhood_name": "Hamilton Park",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 6"
       },
       "geometry": {
         "type": "LineString",
@@ -255,7 +255,7 @@
         ],
         "neighborhood_name": "Hamilton Park",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 6"
       },
       "geometry": {
         "type": "LineString",
@@ -285,7 +285,7 @@
         ],
         "neighborhood_name": "Hamilton Park",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 6"
       },
       "geometry": {
         "type": "LineString",
@@ -315,7 +315,7 @@
         ],
         "neighborhood_name": "Hamilton Park",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 6"
       },
       "geometry": {
         "type": "LineString",
@@ -345,7 +345,7 @@
         ],
         "neighborhood_name": "Hamilton Park",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 6"
       },
       "geometry": {
         "type": "LineString",
@@ -375,7 +375,7 @@
         ],
         "neighborhood_name": "Hamilton Park",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 6"
       },
       "geometry": {
         "type": "LineString",
@@ -405,7 +405,7 @@
         ],
         "neighborhood_name": "Hamilton Park",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 6"
       },
       "geometry": {
         "type": "LineString",

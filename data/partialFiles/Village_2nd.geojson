@@ -15,7 +15,7 @@
         ],
         "neighborhood_name": "The Village",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 1"
       },
       "geometry": {
         "type": "LineString",
@@ -45,7 +45,7 @@
         ],
         "neighborhood_name": "The Village",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 1"
       },
       "geometry": {
         "type": "LineString",
@@ -79,7 +79,7 @@
         ],
         "neighborhood_name": "The Village",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 1"
       },
       "geometry": {
         "type": "LineString",
@@ -109,7 +109,7 @@
         ],
         "neighborhood_name": "The Village",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 5"
       },
       "geometry": {
         "type": "LineString",
@@ -139,7 +139,7 @@
         ],
         "neighborhood_name": "The Village",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 1"
       },
       "geometry": {
         "type": "LineString",
@@ -169,7 +169,7 @@
         ],
         "neighborhood_name": "The Village",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 1"
       },
       "geometry": {
         "type": "LineString",
@@ -203,7 +203,7 @@
         ],
         "neighborhood_name": "The Village",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 1"
       },
       "geometry": {
         "type": "LineString",
@@ -233,7 +233,7 @@
         ],
         "neighborhood_name": "The Village",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 1"
       },
       "geometry": {
         "type": "LineString",
@@ -263,7 +263,7 @@
         ],
         "neighborhood_name": "The Village",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 5"
       },
       "geometry": {
         "type": "LineString",

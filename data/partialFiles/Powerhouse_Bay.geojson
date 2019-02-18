@@ -14,7 +14,7 @@
         ],
         "neighborhood_name": "Powerhouse",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "None"
       },
       "geometry": {
         "type": "LineString",
@@ -43,7 +43,7 @@
         ],
         "neighborhood_name": "Powerhouse",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 4"
       },
       "geometry": {
         "type": "LineString",
@@ -72,7 +72,7 @@
         ],
         "neighborhood_name": "Powerhouse",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 4"
       },
       "geometry": {
         "type": "LineString",
@@ -101,7 +101,7 @@
         ],
         "neighborhood_name": "Powerhouse",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 4"
       },
       "geometry": {
         "type": "LineString",
@@ -130,7 +130,7 @@
         ],
         "neighborhood_name": "Powerhouse",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 4"
       },
       "geometry": {
         "type": "LineString",
@@ -159,7 +159,7 @@
         ],
         "neighborhood_name": "Powerhouse",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 4"
       },
       "geometry": {
         "type": "LineString",
@@ -188,7 +188,7 @@
         ],
         "neighborhood_name": "Powerhouse",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 4"
       },
       "geometry": {
         "type": "LineString",
@@ -217,7 +217,7 @@
         ],
         "neighborhood_name": "Powerhouse",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "None"
       },
       "geometry": {
         "type": "LineString",

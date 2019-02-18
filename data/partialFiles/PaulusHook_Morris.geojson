@@ -15,7 +15,7 @@
         ],
         "neighborhood_name": "Paulus Hook",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 3"
       },
       "geometry": {
         "type": "LineString",
@@ -45,7 +45,7 @@
         ],
         "neighborhood_name": "Paulus Hook",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 3"
       },
       "geometry": {
         "type": "LineString",
@@ -74,7 +74,7 @@
         ],
         "neighborhood_name": "Paulus Hook",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 3"
       },
       "geometry": {
         "type": "LineString",
@@ -103,7 +103,7 @@
         ],
         "neighborhood_name": "Paulus Hook",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 3"
       },
       "geometry": {
         "type": "LineString",
@@ -133,7 +133,7 @@
         ],
         "neighborhood_name": "Paulus Hook",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 3"
       },
       "geometry": {
         "type": "LineString",
@@ -163,7 +163,7 @@
         ],
         "neighborhood_name": "Paulus Hook",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 3"
       },
       "geometry": {
         "type": "LineString",

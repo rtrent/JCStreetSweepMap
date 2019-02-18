@@ -15,7 +15,7 @@
         ],
         "neighborhood_name": "Harsimus Cove",
         "other_rules": "",
-        "parking_zone": "TBU"
+        "parking_zone": "Zone 1"
       },
       "geometry": {
         "type": "LineString",
