@@ -9,11 +9,11 @@
 
 </head>
 <body>
-    
+
     <div id="heading">
         <div><h1>Downtown Jersey City Street Sweeping Rules</h1></div>
     </div>
-    
+
     <div id="content-area">
         <div id="map-area">
             <div id="directions">
@@ -23,7 +23,7 @@
                     <li>Streets without lines have no <strong>street sweeping</strong> rules.</li>
                 </ol>
             </div>
-            
+
             <div id="map"></div>
 
 
@@ -85,7 +85,7 @@
         //     <h3>${feature.properties.location.streetName}</h3>
         //     <p>${feature.properties.location.sideOfStreet} side of street</p>
         //     <p>${feature.properties.regulations[0].rule.activity} because of ${feature.properties.regulations[0].rule.reason}
-        //     on ${feature.properties.regulations[0].timeSpans[0].daysOfWeek} 
+        //     on ${feature.properties.regulations[0].timeSpans[0].daysOfWeek}
         //     between ${feature.properties.regulations[0].timeSpans[0].timesOfDay[0].from}
         //     - ${feature.properties.regulations[0].timeSpans[0].timesOfDay[0].to} </p>
         //   `;
@@ -93,22 +93,30 @@
         //   return text;
         // }
 
+        function generateDaysString(feature) {
+            outputString = ""
+            daysOfWeek = feature.properties.regulations[0].timeSpans[0].daysOfWeek
+            for (i = 0; i < daysOfWeek.length; i++) {
+                for (j = 0; j < daysOfWeek[i].foobar.length; j++) {
+                console.log(outputString + `${daysOfWeek[i].foobar[j]} day`);
+                outputString = outputString + ` ${daysOfWeek[i]} day`
+            }
+            // console.log("this works: ", outputString)
+            return outputString
+        }
 
         function getTextForPopup(feature) {
           let text = `
             <h3>${feature.properties.location.streetName}</h3>
             <p>${feature.properties.location.sideOfStreet} side of street</p>
             <p>${feature.properties.regulations[0].rule.activity} because of ${feature.properties.regulations[0].rule.reason}
-            on ${feature.properties.regulations[0].timeSpans[0].daysOfWeek} 
+            on ${generateDaysString(feature)}
             between ${feature.properties.regulations[0].timeSpans[0].timesOfDay[0].from}
             - ${feature.properties.regulations[0].timeSpans[0].timesOfDay[0].to} </p>
           `;
 
-          console.log(feature.properties.regulations)
-
           return text;
         }
-
 
         //function to create a popup for each layer
         function addPopupOnEachFeature(feature, layer) {
@@ -131,7 +139,7 @@
                     onEachFeature: addPopupOnEachFeature
                 }).addTo(map);
             });
-        }; 
+        };
 
         function removeStreets() {
             if(map.hasLayer(streetLines)){
