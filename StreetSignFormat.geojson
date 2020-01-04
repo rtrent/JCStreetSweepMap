@@ -1,28 +1,30 @@
       "properties": {
-        "street_name": "Brunswick",
+        "street_name": "Wayne",
         "street_suffix": "St",
         "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
+        "start_time": 10,
+        "end_time": 12,
         "sign_days": [
           "M",
           "Th"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "None"
       },
 
 
       "properties": {
-        "street_name": "Brunswick",
+        "street_name": "Wayne",
         "street_suffix": "St",
         "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
+        "start_time": 10,
+        "end_time": 12,
         "sign_days": [
           "Tu",
           "F"
         ],
         "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+        "other_rules": "",
+        "parking_zone": "None"
       },
