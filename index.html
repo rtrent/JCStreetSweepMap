@@ -58,14 +58,6 @@
             };
         };
 
-        // function getRegulations(d) {
-        //     regs = []
-        //     for item in d:
-        //         regs.append(item.rule.reason)
-        //     return(",".join(regs))
-
-        // };
-
         //changes formatting of line if pop up is present
         function highlight(e) {
             e.target.setStyle({
@@ -93,26 +85,89 @@
         //   return text;
         // }
 
+
+
         function generateDaysString(feature) {
             outputString = ""
             daysOfWeek = feature.properties.regulations[0].timeSpans[0].daysOfWeek
             for (i = 0; i < daysOfWeek.length; i++) {
-                for (j = 0; j < daysOfWeek[i].foobar.length; j++) {
-                console.log(outputString + `${daysOfWeek[i].foobar[j]} day`);
-                outputString = outputString + ` ${daysOfWeek[i]} day`
+                console.log(outputString + `${daysOfWeek[i]}`);
+                outputString = outputString + ` ${daysOfWeek[i]}`
+
             }
             // console.log("this works: ", outputString)
             return outputString
         }
 
+        function getTime(timeInput) {
+            timeInput = parseInt(timeInput.slice(0,2), 10)
+
+            timeOutput = (timeInput + 11) % 12 + 1;
+            if(timeInput < 12) {
+                timeOutput = timeOutput + "AM";
+            } else {
+                timeOutput = timeOutput + "PM";
+            }
+
+            return(timeOutput)
+        };
+
+
+        function generateStringFull(feature) {
+            outputString = ""
+
+            regulationList = feature.properties.regulations
+
+            for (i = 0; i < regulationList.length; i++) {
+                
+                //add explanation of rule to text
+                outputString = outputString + `${regulationList[i].rule.activity} because of ${regulationList[i].rule.reason}:`
+
+                // console.log(feature.properties.regulations[i].timeSpans)
+
+                timeSpansList = feature.properties.regulations[i].timeSpans
+
+                // if (timeSpansList.length == 2) {
+                //     console.log(feature.properties.regulations[i].timeSpans)
+                // }
+
+                for (j = 0; j < timeSpansList.length; j++) {
+                    
+                    daysOfWeekList = feature.properties.regulations[i].timeSpans[j].daysOfWeek
+                    timesOfDayList = feature.properties.regulations[i].timeSpans[j].timesOfDay
+                    outputString = outputString + `</br>`
+
+
+                    //add days of week to text
+                    for (k = 0; k < daysOfWeekList.length-1; k++) {
+                        outputString = outputString + `${daysOfWeekList[k].charAt(0).toUpperCase()}` + `${daysOfWeekList[k].charAt(1)} `
+
+                    }
+                    if (k > 0) {
+                        outputString = outputString + `and ${daysOfWeekList[k].charAt(0).toUpperCase()}` + `${daysOfWeekList[k].charAt(1)} `
+                    } else {
+                        outputString = outputString + `${daysOfWeekList[k].charAt(0).toUpperCase()}` + `${daysOfWeekList[k].charAt(1)} `
+                    }
+
+
+                    // add time ranges to text
+                    outputString = outputString + `from ` + getTime(timesOfDayList[0].from) + ` to ` + getTime(timesOfDayList[0].to) 
+
+                }
+            }
+
+            //captialize first letter of text about the rule
+            outputString = outputString.charAt(0).toUpperCase() + outputString.substring(1)
+
+            //add street name to text
+            outputString = `<h3>${feature.properties.location.streetName} </h3>` + outputString
+
+            return outputString
+        }
+
         function getTextForPopup(feature) {
           let text = `
-            <h3>${feature.properties.location.streetName}</h3>
-            <p>${feature.properties.location.sideOfStreet} side of street</p>
-            <p>${feature.properties.regulations[0].rule.activity} because of ${feature.properties.regulations[0].rule.reason}
-            on ${generateDaysString(feature)}
-            between ${feature.properties.regulations[0].timeSpans[0].timesOfDay[0].from}
-            - ${feature.properties.regulations[0].timeSpans[0].timesOfDay[0].to} </p>
+            ${generateStringFull(feature)}
           `;
 
           return text;
@@ -133,7 +188,7 @@
         //ADDING AND REMOVING STREET LINES
 
         function addStreets() {
-            $.getJSON("data/streetdata_new.geojson",function(data){
+            $.getJSON("data/streetdata_test.geojson",function(data){
                 streetLines = L.geoJson(data,{
                     style: style,
                     onEachFeature: addPopupOnEachFeature
