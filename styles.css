@@ -9,8 +9,6 @@ html, body {
     width: 100vw;
 }
 
-
-
 #map, #heading, #directions {
     width: 100vw;
 }
@@ -70,6 +68,7 @@ html, body {
 
 body {
     font-family: Garamond, ‘Book Antiqua’, Palatino, serif;
+    color: black;
 }
 
 h1, h3 {
@@ -84,7 +83,6 @@ h3 {
     color: black;
 }
 
-
 a {
     text-decoration: none;
 }
@@ -93,7 +91,7 @@ a {
 @media only screen and (max-width: 400px) {
 
     body {
-        font-size: 3vw;
+        font-size: 4vw;
     }
 
     #directions-content {
@@ -101,7 +99,7 @@ a {
     }
 
     h1 {
-        font-size: 5vw;
+        font-size: 4vw;
     }
 
 }
@@ -109,7 +107,7 @@ a {
 @media only screen and (min-width: 401px) and (max-width: 500px) {
 
     body {
-        font-size: 14px;
+        font-size: 3vw;
     }
 
     #directions-content {
@@ -126,7 +124,7 @@ a {
 /* Tablet Styles */
 @media only screen and (min-width: 501px) and (max-width: 960px) {
     body {
-        font-size: 16px;
+        font-size: 2.5vw;
     }
 
     #directions-content {
@@ -134,30 +132,32 @@ a {
     }
 
     h1 {
-        font-size: 3.5vw;
+        font-size: 4vw;
     }
 }
 /* Desktop Styles */
-@media only screen and (min-width: 961px) {
+@media only screen and (min-width: 961px) and (max-width: 1024px){
 
-    #map {
-        height: 83%;
-    }
-
-    #heading {
-        height: 7%;
-
-    }
-
-    #directions {
-        height: 10%;
-    }
 
     body {
-        font-size: 18px;
+        font-size: 2.5vw;
     }
 
     h1 {
-        font-size: 2.5vw;
+        font-size: 3.5vw;
+    }
+}
+
+
+/* Desktop Styles */
+@media only screen and (min-width: 1025px) {
+
+
+    body {
+        font-size: 1.3vw;
+    }
+
+    h1 {
+        font-size: 2.1vw;
     }
 }

@@ -2,10 +2,17 @@
 <html>
 <head>
     <title>JC Street Sweeping Rules</title>
-    <!-- <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" /> -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" />
     <link rel="stylesheet" href="styles.css" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-155745648-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-155745648-1');
+    </script>
 
 </head>
 <body>
@@ -29,6 +36,9 @@
 
     <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
     <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+
+
+
     <script>
         // Create web map object
         var map = L.map('map',{
@@ -57,7 +67,7 @@
             return {
                 weight: 2,
                 opacity: .7,
-                color: '#4a80f5'
+                color: 'grey'
             };
         };
 
