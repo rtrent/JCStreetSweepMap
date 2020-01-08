@@ -11,27 +11,22 @@
 <body>
 
     <div id="heading">
-        <div><h1>Downtown Jersey City Street Sweeping Rules</h1></div>
+        <div id="title"><h1>Jersey City Street Sweeping Rules</h1></div>
+        <a href = "https://www.facebook.com/JCStreetSweep/"><span id="feedback"><h3>Feedback</h3></span></a>
     </div>
 
-    <div id="content-area">
-        <div id="map-area">
-            <div id="directions">
-                <ol id="directions-content">
-                    <li>Zoom in on a street. Curb lines will appear.</li>
-                    <li>Tap on a line to see rules for that side of the street.</li>
-                    <li>Streets without lines have <strong>no</strong> street sweeping rules.</li>
-                </ol>
-            </div>
-
-            <div id="map"></div>
-
-
-
-            </div>
-
+    <div id="directions">
+        <ol id="directions-content">
+            <li>Zoom in on a street. Curb lines will appear.</li>
+            <li>Tap on a line to see rules for that side of the street.</li>
+            <li>Streets without lines have <strong>no</strong> street sweeping rules.</li>
+        </ol>
     </div>
-    <!-- <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script> -->
+
+    <div id="map">
+    </div>
+
+
     <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
     <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
     <script>
@@ -53,8 +48,16 @@
         function style(feature) {
             return {
                 weight: 6,
+                opacity: .6,
+                color: '#4a80f5'
+            };
+        };
+
+        function styleNoClick(feature) {
+            return {
+                weight: 2,
                 opacity: .7,
-                color: 'black'
+                color: '#4a80f5'
             };
         };
 
@@ -165,23 +168,32 @@
             });
         };
 
-        function removeStreets() {
-            if(map.hasLayer(streetLines)){
-                map.removeLayer(streetLines);
+        function addStreetsNoClick() {
+            $.getJSON("data/streetdata_test.geojson",function(data){
+                streetLinesNoCLick = L.geoJson(data,{
+                    style: styleNoClick
+                }).addTo(map);
+            });
+        };
+
+        function removeStreets(layer) {
+            if(map.hasLayer(layer)){
+                map.removeLayer(layer);
             }
         };
 
         map.on('zoomend', function() {
             if (map.getZoom() >=17 && !map.hasLayer(streetLines)){
+                    removeStreets(streetLinesNoCLick);
                     addStreets();
             }
             else if (map.getZoom() <17 && map.hasLayer(streetLines)){
-                    removeStreets();
-
-
+                    removeStreets(streetLines);
+                    addStreetsNoClick();
                 }
         });
 
+        addStreetsNoClick();
 
     </script>
 </body>
