@@ -1,47 +1,76 @@
 # JCStreetSweepMap
 
-This project is to catalog and map all parking rules related to street sweeping 
-in Jersey City. My initial pass of this has focused on Downtown.
+This is a project to catalog and map all parking rules related to street sweeping 
+in Jersey City.
 
-This data will not provide information regarding other kinds of parking rules.
+## Street Rule Map Website
+The data is displayed in an online map at the url [jcstreetsweep.com](jcstreetsweep.com). It uses Leaflet and JQuery to generate a map with clickable curblines on every street. Once clicked, a popup is displayed with the associated rule presented to the user is a sentence-like structure.
+
+## Disclaimers
+* This project is not associated with the City of Jersey City. It is an independent project by a resident intended to make hard to find information more accessible.
+* This data will not provide information regarding other kinds of parking rules.
 For example, if a street has a sign stating "No parking at all times", this
 map will not have that information.
-
-Data may not be 100% accurate. Always consult posted signs when making a decision
+* Data may not be 100% accurate. Always consult posted signs when making a decision
 about where to park. Please help report any errors.
+* This project is not associated with the City of Jersey City. It is an independent project by a resident intended to make hard to find information more accessible.
 
 ## Street Sign Data Format
-Information about when parking is / is not allowed is associated with a length of
-curb. Each curb length typically starts and ends at an intersection with another
-street. A street has two curb sections on either side.
+Information about when parking is not allowed is associated with a length of curb. Each curb length typically starts and ends at an intersection with another street. Each street has two curb lengths on either side. This is an attempt to represent these curbs, and associated rules, digitally.
 
-**The data structure captures the following information for each curb:**
-* street name
-* street name suffix (st, rd, ave, etc)
-* sign title (what the rule is about)
-* start time (when no parking time period begins)
-* end time (when no parking time period ends)
-* sign days (which days this rule applies)
-* neighborhood name (which neighborhood this street segment is in)
-* other rules (a catch all if the format cannot properly describe all rules)
+The data structure follows the [SharedStreets](sharedstreets.io) [CurbLR standard](github.com/sharedstreets/curblr) in GeoJSON.
 
-An example with Brunswick St in Van Vorst Park:
+An example with Abbett St:
 ```javascript
-      "properties": {
-        "street_name": "Brunswick",
-        "street_suffix": "St",
-        "sign_title": "Street Sweeping",
-        "start_time": 13,
-        "end_time": 15,
-        "sign_days": [
-          "M",
-          "Th"
-        ],
-        "neighborhood_name": "Van Vorst Park",
-        "other_rules": ""
+{
+   "type":"Feature",
+   "geometry":{
+      "type":"LineString",
+      "coordinates":[
+         [
+            -74.05006170272826,
+            40.740876077958994
+         ],
+         [
+            -74.04990077018736,
+            40.74105897808468
+         ]
+      ]
+   },
+   "properties":{
+      "location":{
+         "sideOfStreet":"west",
+         "marker":"sign",
+         "streetName":"Abbett St"
+      },
+      "regulations":[
+         {
+            "rule":{
+               "activity":"no parking",
+               "reason":"street cleaning"
+            },
+            "timeSpans":[
+               {
+                  "daysOfWeek":[
+                     "mo",
+                     "th"
+                  ],
+                  "timesOfDay":[
+                     {
+                        "from":"13:00",
+                        "to":"15:00"
+                     }
+                  ]
+               }
+            ],
+            "priority":3
+         }
+      ]
+   }
+}
 ```
 ## Data Sources
 Data used in the map was a combination of the following sources:
-* Walking and personally recording physical street signs
-* [Jersey City Ordinance](https://library.municode.com/nj/jersey_city/codes/code_of_ordinances?nodeId=CH332VETR_ARTIIIPASTST) related to parking
-* Google Maps Street View (typically for double checking)
+* Primary research through walking and recording street sign information
+* The [Jersey City Code of Ordinances](https://library.municode.com/nj/jersey_city/codes/code_of_ordinances?nodeId=CH332VETR_ARTIIIPASTST), Article II Section 332-31 related to no parking rules for street cleaning purposes
+* Google Maps Street View
