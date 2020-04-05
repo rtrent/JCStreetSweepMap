@@ -1,0 +1,665 @@
+{
+   "type":"FeatureCollection",
+   "features":[
+      {
+         "type":"Feature",
+         "properties":{
+            "school":"Infinity Institute",
+            "approximate_of_spaces":20,
+            "address":"193 Old Bergen Rd"
+         
+},
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -74.09332,
+               40.696495
+            
+]
+         
+}
+      
+},
+      {
+         "type":"Feature",
+         "properties":{
+            "school":"Liberty High School",
+            "approximate_of_spaces":35,
+            "address":"299 Sip Ave"
+         
+},
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -74.07411,
+               40.732765
+            
+]
+         
+}
+      
+},
+
+      {
+         "type":"Feature",
+         "properties":{
+            "school":"P. S. #30",
+            "approximate_of_spaces":40,
+            "address":"171 Seaview Ave"
+         
+},
+          "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.097534,
+            40.69387
+         
+]
+      
+}
+      
+},
+
+      {
+         "type":"Feature",
+         "properties":{
+            "school":"P. S. #40",
+            "approximate_of_spaces":50,
+            "address":"88 Gates Ave"
+         
+},
+         "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.095985,
+            40.69042
+         
+]
+      
+}
+      
+},
+
+      {
+         "type":"Feature",
+         "properties":{
+            "school":"P. S. #24",
+            "approximate_of_spaces":75,
+            "address":"220 Virginia Ave"
+         
+},
+         "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.084335,
+            40.715893
+         
+]
+      
+}
+      
+},
+
+      {
+         "type":"Feature",
+         "properties":{
+            "school":"P. S. #15",
+            "approximate_of_spaces":100,
+            "address":"135 Stegman St"
+         
+},
+         "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.08354,
+            40.704372
+         
+]
+      
+}
+      
+},
+
+      {
+         "type":"Feature",
+         "properties":{
+            "school":"P. S. #6",
+            "approximate_of_spaces":25,
+            "address":"100 St Pauls Ave"
+         
+},
+         "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.056175,
+            40.736145
+         
+]
+      
+}
+      
+},
+
+      {
+         "type":"Feature",
+         "properties":{
+            "school":"P. S. #38",
+            "approximate_of_spaces":25,
+            "address":"339 Stegman Parkway"
+         
+},
+         "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.09025,
+            40.709057
+         
+]
+      
+}
+      
+},
+
+      {
+         "type":"Feature",
+         "properties":{
+            "school":"P. S. #34",
+            "approximate_of_spaces":30,
+            "address":"1830 Kennedy Blvd"
+         
+},
+         "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.090965,
+            40.702227
+         
+]
+      
+}
+      
+},
+
+      {
+         "type":"Feature",
+         "properties":{
+            "school":"Regional Day School",
+            "approximate_of_spaces":40,
+            "address":"425 Johnston Avenue"
+         
+},
+         "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.06179,
+            40.716263
+         
+]
+      
+}
+      
+},
+
+      {
+         "type":"Feature",
+         "properties":{
+            "school":"Ferris High School",
+            "approximate_of_spaces":100,
+            "address":"35 Colgate St"
+         
+},
+         "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.05398,
+            40.720474
+         
+]
+      
+}
+      
+},
+
+      {
+         "type":"Feature",
+         "properties":{
+            "school":"P. S. #23",
+            "approximate_of_spaces":10,
+            "address":"143 Romaine Ave"
+         
+},
+         "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.06826,
+            40.734234
+         
+]
+      
+}
+      
+},
+
+      {
+         "type":"Feature",
+         "properties":{
+            "school":"P. S. #33",
+            "approximate_of_spaces":10,
+            "address":"362 Union St"
+         
+},
+         "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.084435,
+            40.71881
+         
+]
+      
+}
+      
+},
+
+      {
+         "type":"Feature",
+         "properties":{
+            "school":"Cunningham Early Childhood Center",
+            "approximate_of_spaces":15,
+            "address":"218 Ocean Ave"
+         
+},
+         "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.0912,
+            40.695198
+         
+]
+      
+}
+      
+},
+
+      {
+         "type":"Feature",
+         "properties":{
+         "school":"P. S. #11",
+         "approximate_of_spaces":30,
+         "address":"886 Bergen Ave"
+         
+},
+         "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.06551,
+            40.729725
+         
+]
+      
+}
+      
+},
+
+      {
+         "type":"Feature",
+         "properties":{
+         "school":"P. S. #28",
+         "approximate_of_spaces":35,
+         "address":"167 Hancock Ave"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.04565,
+            40.74822
+         
+]
+      
+}
+      
+},
+
+
+      {
+         "type":"Feature",
+         "properties":{
+            "school":"P. S. # 41",
+         "approximate_of_spaces":50,
+         "address":"59 Wilkinson Ave"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.078433,
+            40.704777
+         
+]
+      
+}
+      
+},
+
+      {
+         "type":"Feature",
+         "properties":{
+         "school":"M. S. #7",
+         "approximate_of_spaces":80,
+         "address":"222 Laidlaw Avenue"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.0599,
+            40.739697
+         
+]
+      
+}
+      
+},
+
+      {
+         "type":"Feature",
+          "properties":{
+         "school":"Central Office-Halstead St",
+         "approximate_of_spaces":90,
+         "address":"Halstead St"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.085859,
+            40.713993
+         
+]
+      
+}
+      
+},
+
+      {
+         "type":"Feature",
+         "properties":{
+         "school":"P. S. #29",
+         "approximate_of_spaces":10,
+         "address":"123 Claremont Ave"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.078995,
+            40.708958
+         
+]
+      
+}
+      
+},
+
+      {
+         "type":"Feature",
+         "properties":{
+         "school":"Danforth Early Childhood Center",
+         "approximate_of_spaces":10,
+         "address":"160 Danforth Ave"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.09193,
+            40.697144
+         
+]
+      
+}
+      
+},
+
+      {
+         "type":"Feature",
+         "properties":{
+         "school":"Snyder High School-JFK Boulevard",
+         "approximate_of_spaces":20,
+         "address":"2107 John F. Kennedy Blvd"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.08435,
+            40.711456
+         
+]
+      
+}
+      
+},
+
+      {
+         "type":"Feature",
+         "properties":{
+         "school":"P. S. #26",
+         "approximate_of_spaces":25,
+         "address":"164 Laidlaw Ave"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.05605,
+            40.73854
+         
+]
+      
+}
+      
+},
+
+      {
+         "type":"Feature",
+         "properties":{
+         "school":"Snyder High School -Bergen Avenue",
+         "approximate_of_spaces":30,
+         "address":"239 Bergen Ave"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.084274,
+            40.70961
+         
+]
+      
+}
+      
+},
+
+      {
+         "type":"Feature",
+         "properties":{
+         "school":"P. S. #17 Belmont Avenue",
+         "approximate_of_spaces":35,
+         "address":"86-130 Belmont Ave"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.07098,
+            40.720108
+         
+]
+      
+}
+      
+},
+
+      {
+         "type":"Feature",
+         "properties":{
+         "school":"Ferris Junior Academy",
+         "approximate_of_spaces":35,
+         "address":"222 Mercer St"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.04948,
+            40.719925
+         
+]
+      
+}
+      
+},
+
+      {
+         "type":"Feature",
+         "properties":{
+         "school":"Lincoln High School",
+         "approximate_of_spaces":50,
+         "address":"60 Crescent Ave"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.07093,
+            40.716713
+         
+]
+      
+}
+      
+},
+
+      {
+         "type":"Feature",
+         "properties":{
+         "school":"P. S. #39",
+         "approximate_of_spaces":60,
+         "address":"214 Plainfield Ave"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.08105,
+            40.729717
+         
+]
+      
+}
+      
+},
+
+      {
+         "type":"Feature",
+         "properties":{
+         "school":"P. S. #8",
+         "approximate_of_spaces":20,
+         "address":"96 Franklin St"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.04917,
+            40.742455
+         
+]
+      
+}
+      
+},
+
+      {
+         "type":"Feature",
+         "properties":{
+         "school":"P. S. #20",
+         "approximate_of_spaces":25,
+         "address":"239 Ocean Avenue"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.08975,
+            40.696106
+         
+]
+      
+}
+      
+},
+
+      {
+         "type":"Feature",
+         "properties":{
+         "school":"Central Office-Orient Ave",
+         "approximate_of_spaces":25,
+         "address":"299 Orient Ave"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.08634,
+            40.713974
+         
+]
+      
+}
+      
+},
+
+      {
+         "type":"Feature",
+         "properties":{
+         "school":"Infante Early Childhood Center",
+         "approximate_of_spaces":35,
+         "address":"201 Marin Blvd"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.04314,
+            40.714746
+         
+]
+      
+}
+      
+},
+
+      {
+         "type":"Feature",
+         "properties":{
+         "school":"Dickinson High School",
+         "approximate_of_spaces":150,
+         "address":"2 Palisade Ave"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.05512,
+            40.730022
+         
+]
+      
+}
+      
+}
+  
+]
+}

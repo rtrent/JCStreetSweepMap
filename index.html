@@ -155,6 +155,9 @@
           return text;
         }
 
+
+
+
         //function to create a popup for each layer
         function addPopupOnEachFeature(feature, layer) {
             layer
@@ -166,6 +169,15 @@
                 //can't add mouseover highlighting with this method at the same time
             });
         };
+
+
+        //function to create a popup for each school
+        function addSchoolPopup(feature, layer) {
+            layer
+            .bindPopup("<h3>" + feature.properties.school + "</h3>" +
+                "spaces: " + feature.properties.approximate_of_spaces + "</br>" +
+                "address: " + feature.properties.address)
+            };
 
         //ADDING AND REMOVING STREET LINES
 
@@ -192,18 +204,29 @@
             }
         };
 
+        function addSchoolLots() {
+            $.getJSON("data/SchoolLotData.geojson",function(data){
+                schools = L.geoJson(data, {
+                    onEachFeature: addSchoolPopup
+                }).addTo(map);
+            });
+        };
+
+
         map.on('zoomend', function() {
-            if (map.getZoom() >=17 && !map.hasLayer(streetLines)){
+            if (map.getZoom() >=15 && !map.hasLayer(streetLines)){
                     removeStreets(streetLinesNoCLick);
                     addStreets();
             }
-            else if (map.getZoom() <17 && map.hasLayer(streetLines)){
+            else if (map.getZoom() <15 && map.hasLayer(streetLines)){
                     removeStreets(streetLines);
                     addStreetsNoClick();
                 }
         });
 
-        addStreetsNoClick();
+        //addStreetsNoClick();
+        addSchoolLots();
+        addStreets();
 
     </script>
 </body>

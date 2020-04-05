@@ -1,0 +1,860 @@
+[
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"0fe97479cc20635903687cb5f6ef796bd1425145",
+      "fields":{
+         "latlon":[
+            40.696495,
+            -74.09332
+         
+],
+         "school":"Infinity Institute (this is not our property)",
+         "approximate_of_spaces":20,
+         "address":"193 Old Bergen Rd"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.09332,
+            40.696495
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+},
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"f46aac079d0f3f7ceb9ddfe2b30d56d32a86dec8",
+      "fields":{
+         "latlon":[
+            40.732765,
+            -74.07411
+         
+],
+         "school":"Liberty High School",
+         "approximate_of_spaces":35,
+         "address":"299 Sip Ave"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.07411,
+            40.732765
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+},
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"39e8e2fece96d11ecb63bcb026af2e9b7ee5a86a",
+      "fields":{
+         "latlon":[
+            40.69387,
+            -74.097534
+         
+],
+         "school":"P. S. #30",
+         "approximate_of_spaces":40,
+         "address":"171 Seaview Ave"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.097534,
+            40.69387
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+},
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"3018dad1c7ce2dab0c0e83cd241ed84dd564b117",
+      "fields":{
+         "latlon":[
+            40.69042,
+            -74.095985
+         
+],
+         "school":"P. S. #40",
+         "approximate_of_spaces":50,
+         "address":"88 Gates Ave"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.095985,
+            40.69042
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+},
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"b56f1c4d4541502acf418aed8e1f2fa010d98dde",
+      "fields":{
+         "latlon":[
+            40.715893,
+            -74.084335
+         
+],
+         "school":"P. S. #24",
+         "approximate_of_spaces":75,
+         "address":"220 Virginia Ave"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.084335,
+            40.715893
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+},
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"8ea4ab710e721e8d5f165d020e9de6f69690ae2a",
+      "fields":{
+         "latlon":[
+            40.704372,
+            -74.08354
+         
+],
+         "school":"P. S. #15",
+         "approximate_of_spaces":100,
+         "address":"135 Stegman St"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.08354,
+            40.704372
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+},
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"5225a09392e52f18285a018399057eadc4bd2784",
+      "fields":{
+         "latlon":[
+            40.736145,
+            -74.056175
+         
+],
+         "school":"P. S. #6",
+         "approximate_of_spaces":25,
+         "address":"100 St Pauls Ave"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.056175,
+            40.736145
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+},
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"da0df5638b018fc726971fe6892235ecf41cc288",
+      "fields":{
+         "latlon":[
+            40.709057,
+            -74.09025
+         
+],
+         "school":"P. S. #38",
+         "approximate_of_spaces":25,
+         "address":"339 Stegman Parkway"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.09025,
+            40.709057
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+},
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"9815d5dd31bd3fd647695e7578af05a5525ca767",
+      "fields":{
+         "latlon":[
+            40.702227,
+            -74.090965
+         
+],
+         "school":"P. S. #34",
+         "approximate_of_spaces":30,
+         "address":"1830 Kennedy Blvd"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.090965,
+            40.702227
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+},
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"c7096f2e0ae19ac4647c7f928467f17b5de83f54",
+      "fields":{
+         "latlon":[
+            40.716263,
+            -74.06179
+         
+],
+         "school":"Regional Day School",
+         "approximate_of_spaces":40,
+         "address":"425 Johnston Avenue"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.06179,
+            40.716263
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+},
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"0281f1a89a685e4c4fd7103987ecd6b2735d7abb",
+      "fields":{
+         "latlon":[
+            40.720474,
+            -74.05398
+         
+],
+         "school":"Ferris High School",
+         "approximate_of_spaces":100,
+         "address":"35 Colgate St"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.05398,
+            40.720474
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+},
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"f59c18b17e7bf22f81f5a1b19f07af6772be7154",
+      "fields":{
+         "latlon":[
+            40.734234,
+            -74.06826
+         
+],
+         "school":"P. S. #23",
+         "approximate_of_spaces":10,
+         "address":"143 Romaine Ave"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.06826,
+            40.734234
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+},
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"8c065ce57a35b988bbf10e17e5b783a84b79de5b",
+      "fields":{
+         "latlon":[
+            40.71881,
+            -74.084435
+         
+],
+         "school":"P. S. #33",
+         "approximate_of_spaces":10,
+         "address":"362 Union St"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.084435,
+            40.71881
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+},
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"e01c947fc6986dae6132aaf8e6e7c97213c6e627",
+      "fields":{
+         "latlon":[
+            40.695198,
+            -74.0912
+         
+],
+         "school":"Cunningham Early Childhood Center",
+         "approximate_of_spaces":15,
+         "address":"218 Ocean Ave"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.0912,
+            40.695198
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+},
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"7f8c230f13fa3f0b08b9f1c109901c8232dae587",
+      "fields":{
+         "latlon":[
+            40.729725,
+            -74.06551
+         
+],
+         "school":"P. S. #11",
+         "approximate_of_spaces":30,
+         "address":"886 Bergen Ave"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.06551,
+            40.729725
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+},
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"67e5deee70545404a96f58cd771827de03506714",
+      "fields":{
+         "latlon":[
+            40.74822,
+            -74.04565
+         
+],
+         "school":"P. S. #28",
+         "approximate_of_spaces":35,
+         "address":"167 Hancock Ave"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.04565,
+            40.74822
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+},
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"a347391c1fe1b075d39428fea33915e0bf02eb11",
+      "fields":{
+         "latlon":[
+            40.704777,
+            -74.078433
+         
+],
+         "school":"P. S. # 41",
+         "approximate_of_spaces":50,
+         "address":"59 Wilkinson Ave"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.078433,
+            40.704777
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+},
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"0cb99de0da0f56f7724c24029b04865461703753",
+      "fields":{
+         "latlon":[
+            40.739697,
+            -74.0599
+         
+],
+         "school":"M. S. #7",
+         "approximate_of_spaces":80,
+         "address":"222 Laidlaw Avenue"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.0599,
+            40.739697
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+},
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"4488d75cb9b7177f692a5fc41becc45671d75eea",
+      "fields":{
+         "latlon":[
+            40.713993,
+            -74.085859
+         
+],
+         "school":"Central Office-Halstead St",
+         "approximate_of_spaces":90,
+         "address":"Halstead St"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.085859,
+            40.713993
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+},
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"feeceb2ea4cf4ddc683c2848390368a31cbc0986",
+      "fields":{
+         "latlon":[
+            40.708958,
+            -74.078995
+         
+],
+         "school":"P. S. #29",
+         "approximate_of_spaces":10,
+         "address":"123 Claremont Ave"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.078995,
+            40.708958
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+},
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"87e6db36022ac637e1708ba7520210040ae33c08",
+      "fields":{
+         "latlon":[
+            40.697144,
+            -74.09193
+         
+],
+         "school":"Danforth Early Childhood Center",
+         "approximate_of_spaces":10,
+         "address":"160 Danforth Ave"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.09193,
+            40.697144
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+},
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"8391ff40d309ddc77931e584dd6efd5e0c930a5b",
+      "fields":{
+         "latlon":[
+            40.711456,
+            -74.08435
+         
+],
+         "school":"Snyder High School-JFK Boulevard",
+         "approximate_of_spaces":20,
+         "address":"2107 John F. Kennedy Blvd"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.08435,
+            40.711456
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+},
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"5abff1dddd6bed0bd0f8334724cd2a57c14f1907",
+      "fields":{
+         "latlon":[
+            40.73854,
+            -74.05605
+         
+],
+         "school":"P. S. #26",
+         "approximate_of_spaces":25,
+         "address":"164 Laidlaw Ave"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.05605,
+            40.73854
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+},
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"5fd2a9e873a42ee493ec98963c0115a8faa689c8",
+      "fields":{
+         "latlon":[
+            40.70961,
+            -74.084274
+         
+],
+         "school":"Snyder High School -Bergen Avenue",
+         "approximate_of_spaces":30,
+         "address":"239 Bergen Ave"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.084274,
+            40.70961
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+},
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"131a48c473d80aafd326cb324cdffa6fd2ebeaa8",
+      "fields":{
+         "latlon":[
+            40.720108,
+            -74.07098
+         
+],
+         "school":"P. S. #17 Belmont Avenue",
+         "approximate_of_spaces":35,
+         "address":"86-130 Belmont Ave"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.07098,
+            40.720108
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+},
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"a7b0b74dd67d9b60d8a08e5c69be54d9303c7687",
+      "fields":{
+         "latlon":[
+            40.719925,
+            -74.04948
+         
+],
+         "school":"Ferris Junior Academy",
+         "approximate_of_spaces":35,
+         "address":"222 Mercer St"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.04948,
+            40.719925
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+},
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"97e42fe39b48125f63d18f0295836fbec70ed5d2",
+      "fields":{
+         "latlon":[
+            40.716713,
+            -74.07093
+         
+],
+         "school":"Lincoln High School",
+         "approximate_of_spaces":50,
+         "address":"60 Crescent Ave"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.07093,
+            40.716713
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+},
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"6dfb41753466d32c7fcfd108cb8cb22bda4b1a80",
+      "fields":{
+         "latlon":[
+            40.729717,
+            -74.08105
+         
+],
+         "school":"P. S. #39",
+         "approximate_of_spaces":60,
+         "address":"214 Plainfield Ave"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.08105,
+            40.729717
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+},
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"6c17addc33c51e9f006bfc091cf0161a6f0c9bdd",
+      "fields":{
+         "latlon":[
+            40.742455,
+            -74.04917
+         
+],
+         "school":"P. S. #8",
+         "approximate_of_spaces":20,
+         "address":"96 Franklin St"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.04917,
+            40.742455
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+},
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"a5f4b1815035439ed39296e0dad892fb2b90b81d",
+      "fields":{
+         "latlon":[
+            40.696106,
+            -74.08975
+         
+],
+         "school":"P. S. #20",
+         "approximate_of_spaces":25,
+         "address":"239 Ocean Avenue"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.08975,
+            40.696106
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+},
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"206e8ac7a7fdb741bc373804dbc0486c166e2ad0",
+      "fields":{
+         "latlon":[
+            40.713974,
+            -74.08634
+         
+],
+         "school":"Central Office-Orient Ave",
+         "approximate_of_spaces":25,
+         "address":"299 Orient Ave"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.08634,
+            40.713974
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+},
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"51698564a29e0478ca020b98ba1fb2f2922c2dc9",
+      "fields":{
+         "latlon":[
+            40.714746,
+            -74.04314
+         
+],
+         "school":"Infante Early Childhood center",
+         "approximate_of_spaces":35,
+         "address":"201 Marin Blvd"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.04314,
+            40.714746
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+},
+   {
+      "datasetid":"jersey-city-school-parking-information",
+      "recordid":"4844aacc67644f665ab5bde32c71dfb22806358c",
+      "fields":{
+         "latlon":[
+            40.730022,
+            -74.05512
+         
+],
+         "school":"Dickinson High School",
+         "approximate_of_spaces":150,
+         "address":"2 Palisade Ave"
+      
+},
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -74.05512,
+            40.730022
+         
+]
+      
+},
+      "record_timestamp":"2020-04-03T15:15:02.204-04:00"
+   
+}
+]
