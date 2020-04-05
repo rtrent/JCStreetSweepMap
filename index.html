@@ -23,11 +23,12 @@
     </div>
 
     <div id="directions">
-        <ol id="directions-content">
-            <li>Zoom in on a street. Curb lines will appear.</li>
-            <li>Tap on a line to see rules for that side of the street.</li>
-            <li>Streets without lines have <strong>no</strong> street sweeping rules.</li>
-        </ol>
+        <ul id="directions-content">
+            <li>Zoom in and tap on blue lines to see sweeping rules.</li>
+            <li>Click on green markers to see details for school parking.</li>
+            <li>During the COVID-19 response, residents can park in school parking lots.</li>
+        </ul>
+</div>
     </div>
 
     <div id="map">
@@ -63,6 +64,8 @@
             };
         };
 
+
+
         function styleNoClick(feature) {
             return {
                 weight: 2,
@@ -70,6 +73,15 @@
                 color: 'grey'
             };
         };
+
+
+        var greenIcon = L.icon({
+            iconUrl: 'img/marker-icon-green.png',
+            iconSize: [25, 41],
+            iconAnchor: [12, 41],
+            popupAnchor: [1, -34]
+        });
+
 
 
         //changes formatting of line if pop up is present
@@ -175,8 +187,8 @@
         function addSchoolPopup(feature, layer) {
             layer
             .bindPopup("<h3>" + feature.properties.school + "</h3>" +
-                "spaces: " + feature.properties.approximate_of_spaces + "</br>" +
-                "address: " + feature.properties.address)
+                "Approx Spaces: " + feature.properties.approximate_of_spaces + "</br>" +
+                "Address: " + feature.properties.address)
             };
 
         //ADDING AND REMOVING STREET LINES
@@ -207,7 +219,10 @@
         function addSchoolLots() {
             $.getJSON("data/SchoolLotData.geojson",function(data){
                 schools = L.geoJson(data, {
-                    onEachFeature: addSchoolPopup
+                    onEachFeature: addSchoolPopup,
+                    pointToLayer: function (feature, latlng) {
+                        var marker = L.marker(latlng,{icon: greenIcon});
+                        return marker;}
                 }).addTo(map);
             });
         };
